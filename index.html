@@ -39,9 +39,7 @@
       border-radius: 5px;
     }
     .results {
-  max-height: 650px;
-  overflow-y: auto;
-  padding-right: 10px;
+  
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
       gap: 20px;
@@ -131,11 +129,26 @@
 
   <div class="container">
     <div id="suburbCount"></div>
-    <div id="results" class="results"></div>
+    
+    <div id="results" class="results" style="max-height: 700px; overflow: hidden;"></div>
+    <div style="text-align:center; margin: 20px 0;">
+      <button id="toggleMore" style="padding: 10px 20px; font-size: 1rem; background-color: #2E6B52; color: white; border: none; border-radius: 5px; cursor: pointer;">
+        Show More ▾
+      </button>
+    </div>
+    
     <div id="map"></div>
   </div>
 
-  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js">
+    document.getElementById('toggleMore').addEventListener('click', () => {
+      const results = document.getElementById('results');
+      const button = document.getElementById('toggleMore');
+      const expanded = results.style.maxHeight === 'none';
+      results.style.maxHeight = expanded ? '700px' : 'none';
+      button.textContent = expanded ? 'Show More ▾' : 'Show Less ▴';
+    });
+    </script>
   <script>
     let suburbData = [];
 
@@ -236,6 +249,14 @@
         }
       });
     }
-  </script>
+  
+    document.getElementById('toggleMore').addEventListener('click', () => {
+      const results = document.getElementById('results');
+      const button = document.getElementById('toggleMore');
+      const expanded = results.style.maxHeight === 'none';
+      results.style.maxHeight = expanded ? '700px' : 'none';
+      button.textContent = expanded ? 'Show More ▾' : 'Show Less ▴';
+    });
+    </script>
 </body>
 </html>
