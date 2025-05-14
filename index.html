@@ -114,11 +114,26 @@
       border-radius: 4px;
       color: #2E6B52;
     }
+    
+    .fade {
+      opacity: 0;
+      transition: opacity 0.5s ease;
+    }
+    .fade.show {
+      opacity: 1;
+    }
+    .tab:focus {
+      outline: none;
+    }
     </style>
 </head>
 <body>
   <div class="header">
     <div class="container">
+  <div style="text-align:center; margin: 20px 0;">
+    <button id="tableTab" class="tab active" style="padding: 10px 20px; border: none; border-radius: 5px 0 0 5px; background: #2E6B52; color: white;">Table View</button>
+    <button id="mapTab" class="tab" style="padding: 10px 20px; border: none; border-radius: 0 5px 5px 0; background: #ddd; color: #333;">Map View</button>
+  </div>
       <h2>Tasmanian Suburb Reports</h2>
       <input type="text" id="suburbSearch" placeholder="Search by suburb..." />
       <select id="municipalitySelect">
@@ -133,8 +148,12 @@
 </div>
   
   <div class="container">
-    <div id="tableView">
-    <div id="suburbCount"></div>
+  <div style="text-align:center; margin: 20px 0;">
+    <button id="tableTab" class="tab active" style="padding: 10px 20px; border: none; border-radius: 5px 0 0 5px; background: #2E6B52; color: white;">Table View</button>
+    <button id="mapTab" class="tab" style="padding: 10px 20px; border: none; border-radius: 0 5px 5px 0; background: #ddd; color: #333;">Map View</button>
+  </div>
+    <div id="tableView" class="fade show">
+    <div id="tableView" class="fade show"><div id="suburbCount"></div>
     
     <div id="results" class="results" style="max-height: 700px; overflow: hidden;"></div>
     <div style="text-align:center; margin: 20px 0;">
@@ -144,8 +163,8 @@
     </div>
     </div>
 
-    <div id="mapView" style="display: none;">
-    <div id="map"></div>
+    <div id="mapView" class="fade" style="display: none;">
+    </div></div><div id="mapView" class="fade" style="display: none;"><div id="map"></div>
   </div>
       </div>
 
@@ -159,7 +178,11 @@ const mapView = document.getElementById('mapView');
 tableTab.addEventListener('click', () => {
   tableTab.classList.add('active');
   mapTab.classList.remove('active');
-  tableView.style.display = '';
+  tableView.classList.add('fade');
+      mapView.classList.remove('show');
+      tableView.classList.add('show');
+      mapView.classList.remove('fade');
+      tableView.style.display = '';
   mapView.style.display = 'none';
   tableTab.style.background = '#2E6B52';
   tableTab.style.color = 'white';
@@ -171,7 +194,11 @@ mapTab.addEventListener('click', () => {
   tableTab.classList.remove('active');
   mapTab.classList.add('active');
   tableView.style.display = 'none';
-  mapView.style.display = '';
+  mapView.classList.add('fade');
+      tableView.classList.remove('show');
+      mapView.classList.add('show');
+      tableView.classList.remove('fade');
+      mapView.style.display = '';
   mapTab.style.background = '#2E6B52';
   mapTab.style.color = 'white';
   tableTab.style.background = '#ddd';
