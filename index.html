@@ -153,175 +153,7 @@
 
   <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
 <script src="https://unpkg.com/leaflet.markercluster/dist/leaflet.markercluster.js"></script>
-    const tableTab = document.getElementById('tableTab');
-const mapTab = document.getElementById('mapTab');
-const tableView = document.getElementById('tableView');
-const mapView = document.getElementById('mapView');
-
-tableTab.addEventListener('click', () => {
-  tableTab.classList.add('active');
-  mapTab.classList.remove('active');
-  tableView.style.display = '';
-  mapView.style.display = 'none';
-  tableTab.style.background = '#2E6B52';
-  tableTab.style.color = 'white';
-  mapTab.style.background = '#ddd';
-  mapTab.style.color = '#333';
-});
-
-mapTab.addEventListener('click', () => {
-  tableTab.classList.remove('active');
-  mapTab.classList.add('active');
-  tableView.style.display = 'none';
-  mapView.style.display = '';
-  mapTab.style.background = '#2E6B52';
-  mapTab.style.color = 'white';
-  tableTab.style.background = '#ddd';
-  tableTab.style.color = '#333';
-  if (typeof map !== 'undefined') {
-    setTimeout(() => map.invalidateSize(), 200);
-  }
-});
-    
-    let suburbData = [];
-
-    fetch('suburb_reports_data.json')
-      .then(response => response.json())
-      .then(data => {
-        data.sort((a, b) => a.Suburb.localeCompare(b.Suburb));
-        suburbData = data;
-        populateMunicipalityList(data);
-        setupSearch(data);
-        displayResults(data);
-        initMap(data);
-      });
-
-    function populateMunicipalityList(data) {
-      const select = document.getElementById('municipalitySelect');
-      const municipalities = [...new Set(data.map(d => d.Municipality))].sort();
-      municipalities.forEach(muni => {
-        const option = document.createElement('option');
-        option.value = muni;
-        option.textContent = muni;
-        select.appendChild(option);
-      });
-      select.addEventListener('change', () => {
-        const value = select.value;
-
-    body {
-      font-family: 'Open Sans', sans-serif;
-      margin: 0;
-      background: #f9f9f9;
-    }
-    .header {
-      position: sticky;
-      top: 0;
-      z-index: 1000;
-      background: #ffffff;
-      padding: 20px;
-      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-    }
-    .header h2 {
-      color: #2E6B52;
-      margin: 0 0 10px 0;
-    }
-    .container {
-      max-width: 1200px;
-      margin: 0 auto;
-      padding: 20px;
-    }
-    input, select {
-      width: 100%;
-      padding: 10px;
-      font-size: 1rem;
-      margin-bottom: 15px;
-      border: 1px solid #ccc;
-      border-radius: 5px;
-    }
-    .results {
-  
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-      gap: 20px;
-      margin-top: 20px;
-    }
-    .card {
-      background: #fff;
-      border-radius: 10px;
-      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-      overflow: hidden;
-      animation: fadeInUp 0.6s ease forwards;
-    }
-    .card-header {
-      background-color: #2E6B52;
-      color: white;
-      padding: 12px;
-      font-weight: 600;
-    }
-    .card-body {
-      padding: 15px;
-    }
-    .card-body a {
-      display: flex;
-      align-items: center;
-      text-decoration: none;
-      margin: 6px 0;
-      color: #2E6B52;
-    }
-    .card-body a:hover {
-      text-decoration: underline;
-    }
-    .icon {
-      margin-right: 8px;
-      font-size: 1.2rem;
-    }
-    #map {
-      height: 600px;
-      margin-top: 30px;
-      border: 2px solid #ccc;
-      border-radius: 10px;
-    }
-    #suburbCount {
-      margin-bottom: 10px;
-      font-weight: bold;
-      color: #2E6B52;
-    }
-    @keyframes fadeInUp {
-      from {
-        opacity: 0;
-        transform: translateY(10px);
-      }
-      to {
-        opacity: 1;
-        transform: translateY(0);
-      }
-    }
-  
-    .highlight {
-      animation: pulseHighlight 1.5s ease;
-    }
-    @keyframes pulseHighlight {
-      0% { background-color: #e0f4eb; }
-      100% { background-color: transparent; }
-    }
-    
-    .suburb-label {
-      font-size: 0.85rem;
-      font-weight: 600;
-      background: white;
-      border: 1px solid #ccc;
-      padding: 2px 6px;
-      border-radius: 4px;
-      color: #2E6B52;
-    }
-  
-  
-    
-        Show More ▾
-
-
-  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
-<script src="https://unpkg.com/leaflet.markercluster/dist/leaflet.markercluster.js"></script>
+  <script>
     const tableTab = document.getElementById('tableTab');
 const mapTab = document.getElementById('mapTab');
 const tableView = document.getElementById('tableView');
@@ -382,6 +214,9 @@ mapTab.addEventListener('click', () => {
         const bounds = L.latLngBounds(filtered.filter(d => d.Lat && d.Lon).map(d => [d.Lat, d.Lon]));
         if (bounds.isValid()) map.fitBounds(bounds);
             });
+      window.markerCluster = clusterGroup;
+      window.markerCluster = clusterGroup;
+      map.addLayer(clusterGroup);
     }
 
     function setupSearch(data) {
@@ -394,6 +229,9 @@ mapTab.addEventListener('click', () => {
         const bounds = L.latLngBounds(filtered.filter(d => d.Lat && d.Lon).map(d => [d.Lat, d.Lon]));
         if (bounds.isValid()) map.fitBounds(bounds);
             });
+      window.markerCluster = clusterGroup;
+      window.markerCluster = clusterGroup;
+      map.addLayer(clusterGroup);
     }
 
     function displayResults(data) {
@@ -402,72 +240,7 @@ mapTab.addEventListener('click', () => {
       results.innerHTML = '';
       count.textContent = `Showing ${data.length} suburb${data.length !== 1 ? 's' : ''}`;
 
-      
-      data.forEach(d => {
-        const card = document.createElement('div');
-        const id = 'suburb-' + d.Suburb.toLowerCase().replace(/\s+/g, '-');
-        card.className = 'card';
-        card.id = id;
-        card.innerHTML = `
-        results.appendChild(card);
-            });
-    }
-
-    let map, markers = [];
-
-    function initMap(data) {
-      if (!map) {
-        map = L.map('map').setView([-42.0409, 146.8087], 7);
-        L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
-  attribution: '&copy; OpenStreetMap & CartoDB',
-  subdomains: 'abcd',
-  maxZoom: 19
-}).addTo(map);
-      }
-
-      if (window.markerCluster) map.removeLayer(window.markerCluster);
-      markers = [];
-
-      
-      data.forEach(d => {
-        if (d.Lat != null && d.Lon != null) { console.log("Marker for", d.Suburb, d.Lat, d.Lon);
-          const marker = L.circleMarker([d.Lat, d.Lon], {
-            radius: 7,
-            color: '#2E6B52',
-            fillColor: '#2E6B52',
-            fillOpacity: 0.8
-          }).addTo(map);
-          `);
-          marker.bindTooltip(d.Suburb, { permanent: true, direction: 'top', offset: [0, -20], className: 'suburb-label' });
-      // // removed clusterGroup usage outside initMap.addLayer(marker); removed to prevent scope error
-      markers.push(marker);
-        }
-            });
-    }
-  
-    document.getElementById('toggleMore').addEventListener('click', () => {
-      const results = document.getElementById('results');
-      const button = document.getElementById('toggleMore');
-      const expanded = results.style.maxHeight === 'none';
-      results.style.maxHeight = expanded ? '700px' : 'none';
-      button.textContent = expanded ? 'Show More ▾' : 'Show Less ▴';
-    });
-    </script>
-</body>
-</html>
-            });
-      
-      
-      
-    }
-
-    function displayResults(data) {
-      const results = document.getElementById('results');
-      const count = document.getElementById('suburbCount');
-      results.innerHTML = '';
-      count.textContent = `Showing ${data.length} suburb${data.length !== 1 ? 's' : ''}`;
-
-      
+      const clusterGroup = L.markerClusterGroup();
       data.forEach(d => {
         const card = document.createElement('div');
         const id = 'suburb-' + d.Suburb.toLowerCase().replace(/\s+/g, '-');
@@ -483,9 +256,9 @@ mapTab.addEventListener('click', () => {
           </div>`;
         results.appendChild(card);
             });
-      
-      
-      
+      window.markerCluster = clusterGroup;
+      window.markerCluster = clusterGroup;
+      map.addLayer(clusterGroup);
     }
 
     let map, markers = [];
@@ -503,7 +276,7 @@ mapTab.addEventListener('click', () => {
       if (window.markerCluster) map.removeLayer(window.markerCluster);
       markers = [];
 
-      
+      const clusterGroup = L.markerClusterGroup();
       data.forEach(d => {
         if (d.Lat != null && d.Lon != null) { console.log("Marker for", d.Suburb, d.Lat, d.Lon);
           const marker = L.circleMarker([d.Lat, d.Lon], {
@@ -519,13 +292,13 @@ mapTab.addEventListener('click', () => {
             ${d.Rental ? `<a href="${d.Rental}" target="_blank">🔑 Rental</a>` : ''}
           `);
           marker.bindTooltip(d.Suburb, { permanent: true, direction: 'top', offset: [0, -20], className: 'suburb-label' });
-      // // removed clusterGroup usage outside initMap.addLayer(marker); removed to prevent scope error
+      clusterGroup.addLayer(marker);
       markers.push(marker);
         }
             });
-      
-      
-      
+      window.markerCluster = clusterGroup;
+      window.markerCluster = clusterGroup;
+      map.addLayer(clusterGroup);
     }
   
     document.getElementById('toggleMore').addEventListener('click', () => {
