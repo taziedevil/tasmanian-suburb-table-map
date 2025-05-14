@@ -119,6 +119,17 @@
       border-radius: 4px;
       color: #2E6B52;
     }
+
+    .municipality-label {
+  font-size: 0.85rem;
+  font-weight: 600;
+  background: white;
+  border: 1px solid #ccc;
+  padding: 2px 6px;
+  border-radius: 4px;
+  color: #f28e2b;
+  transform: translateY(10px);
+}
     </style>
 </head>
 <body>
@@ -230,7 +241,8 @@ if (municipalityCenters[value]) {
   municipalityMarker.bindTooltip(value, {
     permanent: true,
     direction: 'top',
-    className: 'suburb-label'
+    offset: [0, -25],
+    className: 'municipality-label'
   });
 }
 
