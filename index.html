@@ -122,18 +122,13 @@
       <h2>Tasmanian Suburb Reports</h2>
       <input type="text" id="suburbSearch" placeholder="Search by suburb..." />
       <select id="municipalitySelect">
-
-<div style="text-align:center; margin: 20px 0;">
-  <button id="tableTab" class="tab active" style="padding: 10px 20px; border: none; border-radius: 5px 0 0 5px; background: #2E6B52; color: white;">Table View</button>
-  <button id="mapTab" class="tab" style="padding: 10px 20px; border: none; border-radius: 0 5px 5px 0; background: #ddd; color: #333;">Map View</button>
-</div>
         <option value="">-- Select a municipality --</option>
       </select>
     </div>
   </div>
 
   <div class="container">
-    <div id="tableView"><div id="suburbCount"></div>
+    <div id="suburbCount"></div>
     
     <div id="results" class="results" style="max-height: 700px; overflow: hidden;"></div>
     <div style="text-align:center; margin: 20px 0;">
@@ -142,48 +137,10 @@
       </button>
     </div>
     
-    </div></div><div id="mapView" style="display:none;"><div id="map"></div>
+    <div id="map"></div>
   </div>
 
-  <script src="https://unpkg.com/leaflet/dist/leaflet.js">
-    document.getElementById('toggleMore').addEventListener('click', () => {
-      const results = document.getElementById('results');
-      const button = document.getElementById('toggleMore');
-      const expanded = results.style.maxHeight === 'none';
-      results.style.maxHeight = expanded ? '700px' : 'none';
-      button.textContent = expanded ? 'Show More ▾' : 'Show Less ▴';
-    });
-    
-    const tableTab = document.getElementById('tableTab');
-    const mapTab = document.getElementById('mapTab');
-    const tableView = document.getElementById('tableView');
-    const mapView = document.getElementById('mapView');
-
-    tableTab.addEventListener('click', () => {
-      tableTab.classList.add('active');
-      mapTab.classList.remove('active');
-      tableView.style.display = '';
-      mapView.style.display = 'none';
-      tableTab.style.background = '#2E6B52';
-      tableTab.style.color = 'white';
-      mapTab.style.background = '#ddd';
-      mapTab.style.color = '#333';
-    });
-
-    mapTab.addEventListener('click', () => {
-      tableTab.classList.remove('active');
-      mapTab.classList.add('active');
-      tableView.style.display = 'none';
-      mapView.style.display = '';
-      mapTab.style.background = '#2E6B52';
-      mapTab.style.color = 'white';
-      tableTab.style.background = '#ddd';
-      tableTab.style.color = '#333';
-      if (typeof map !== 'undefined') {
-        setTimeout(() => map.invalidateSize(), 200);
-      }
-    });
-    </script>
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
   <script>
     let suburbData = [];
 
@@ -257,9 +214,8 @@
     function initMap(data) {
       if (!map) {
         map = L.map('map').setView([-42.0409, 146.8087], 7);
-        L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
-          attribution: '&copy; OpenStreetMap & CartoDB',
-  subdomains: 'abcd'
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+          attribution: '&copy; OpenStreetMap contributors'
         }).addTo(map);
       }
 
@@ -269,10 +225,10 @@
       data.forEach(d => {
         if (d.Lat != null && d.Lon != null) { console.log("Marker for", d.Suburb, d.Lat, d.Lon);
           const marker = L.circleMarker([d.Lat, d.Lon], {
-            radius: 6,
+            radius: 7,
             color: '#2E6B52',
             fillColor: '#2E6B52',
-            fillOpacity: 0.6
+            fillOpacity: 0.8
           }).addTo(map);
           marker.bindPopup(`<strong>${d.Suburb}</strong><br>${d.Municipality}<br>
             ${d.Houses ? `<a href="${d.Houses}" target="_blank">🏠 Houses</a><br>` : ''}
@@ -292,36 +248,6 @@
       const expanded = results.style.maxHeight === 'none';
       results.style.maxHeight = expanded ? '700px' : 'none';
       button.textContent = expanded ? 'Show More ▾' : 'Show Less ▴';
-    });
-    
-    const tableTab = document.getElementById('tableTab');
-    const mapTab = document.getElementById('mapTab');
-    const tableView = document.getElementById('tableView');
-    const mapView = document.getElementById('mapView');
-
-    tableTab.addEventListener('click', () => {
-      tableTab.classList.add('active');
-      mapTab.classList.remove('active');
-      tableView.style.display = '';
-      mapView.style.display = 'none';
-      tableTab.style.background = '#2E6B52';
-      tableTab.style.color = 'white';
-      mapTab.style.background = '#ddd';
-      mapTab.style.color = '#333';
-    });
-
-    mapTab.addEventListener('click', () => {
-      tableTab.classList.remove('active');
-      mapTab.classList.add('active');
-      tableView.style.display = 'none';
-      mapView.style.display = '';
-      mapTab.style.background = '#2E6B52';
-      mapTab.style.color = 'white';
-      tableTab.style.background = '#ddd';
-      tableTab.style.color = '#333';
-      if (typeof map !== 'undefined') {
-        setTimeout(() => map.invalidateSize(), 200);
-      }
     });
     </script>
 </body>
