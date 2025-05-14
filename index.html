@@ -260,7 +260,7 @@ mapTab.addEventListener('click', () => {
     let map, markers = [];
 
     function initMap(data) {
-      if (!map) {
+     if (!map) {
         map = L.map('map').setView([-42.0409, 146.8087], 7);
         L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
   attribution: '&copy; OpenStreetMap & CartoDB',
@@ -269,35 +269,40 @@ mapTab.addEventListener('click', () => {
 }).addTo(map);
       }
 
+if (window.markerCluster) {
+  map.removeLayer(window.markerCluster);
+}
+
       markers.forEach(m => map.removeLayer(m));
       markers = [];
 
-     const clusterGroup = L.markerClusterGroup({ disableClusteringAtZoom: 12 });
+ const clusterGroup = L.markerClusterGroup({ disableClusteringAtZoom: 12 });
+  markers = [];
 
-data.forEach(d => {
-  if (d.Lat != null && d.Lon != null) {
-    const marker = L.circleMarker([d.Lat, d.Lon], {
-      radius: 7,
-      color: '#2E6B52',
-      fillColor: '#2E6B52',
-      fillOpacity: 0.8
-    });
+  data.forEach(d => {
+    if (d.Lat != null && d.Lon != null) {
+      const marker = L.circleMarker([d.Lat, d.Lon], {
+        radius: 7,
+        color: '#2E6B52',
+        fillColor: '#2E6B52',
+        fillOpacity: 0.8
+      });
 
-    marker.bindTooltip(d.Suburb, {
-      permanent: true,
-      direction: 'top',
-      offset: [0, -20],
-      className: 'suburb-label'
-    });
+      marker.bindTooltip(d.Suburb, {
+        permanent: true,
+        direction: 'top',
+        offset: [0, -20],
+        className: 'suburb-label'
+      });
 
-    clusterGroup.addLayer(marker);
-    markers.push(marker);
-  }
-});
-
-map.addLayer(clusterGroup);
-
+      clusterGroup.addLayer(marker);
+      markers.push(marker);
     }
+  });
+
+  map.addLayer(clusterGroup);
+  window.markerCluster = clusterGroup;
+}
   
     document.getElementById('toggleMore').addEventListener('click', () => {
       const results = document.getElementById('results');
