@@ -103,6 +103,16 @@
       0% { background-color: #e0f4eb; }
       100% { background-color: transparent; }
     }
+    
+    .suburb-label {
+      font-size: 0.85rem;
+      font-weight: 600;
+      background: white;
+      border: 1px solid #ccc;
+      padding: 2px 6px;
+      border-radius: 4px;
+      color: #2E6B52;
+    }
     </style>
 </head>
 <body>
@@ -212,21 +222,14 @@
             fillColor: '#2E6B52',
             fillOpacity: 0.8
           }).addTo(map);
-          marker.on('click', () => {
-      const target = document.getElementById('suburb-' + d.Suburb.toLowerCase().replace(/\s+/g, '-'));
-      if (target) {
-        target.scrollIntoView({ behavior: 'smooth' });
-        target.classList.add('highlight');
-        setTimeout(() => target.classList.remove('highlight'), 2000);
-      }
-    });
-    marker.bindPopup(`<strong>${d.Suburb}</strong><br>${d.Municipality}<br>
+          marker.bindPopup(`<strong>${d.Suburb}</strong><br>${d.Municipality}<br>
             ${d.Houses ? `<a href="${d.Houses}" target="_blank">🏠 Houses</a><br>` : ''}
             ${d.Other ? `<a href="${d.Other}" target="_blank">🏢 Other Dwellings</a><br>` : ''}
             ${d.Land ? `<a href="${d.Land}" target="_blank">🌱 Land</a><br>` : ''}
             ${d.Rental ? `<a href="${d.Rental}" target="_blank">🔑 Rental</a>` : ''}
           `);
-          markers.push(marker);
+          marker.bindTooltip(d.Suburb, { permanent: true, direction: 'top', className: 'suburb-label' });
+      markers.push(marker);
         }
       });
     }
