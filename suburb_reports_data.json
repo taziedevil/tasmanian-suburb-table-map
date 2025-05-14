@@ -2,6 +2,8 @@
   {
     "Municipality": "Burnie",
     "Suburb": "Acton",
+    "Lon": 145.8917,
+    "Lat": -41.0717,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-acton.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-acton-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-acton-land.pdf",
@@ -10,6 +12,8 @@
   {
     "Municipality": "Clarence",
     "Suburb": "Acton Park",
+    "Lon": 147.4776,
+    "Lat": -42.871,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-acton-park.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-acton-park-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-acton-park-land.pdf",
@@ -18,6 +22,8 @@
   {
     "Municipality": "Devonport",
     "Suburb": "Ambleside",
+    "Lon": 146.3722,
+    "Lat": -41.2031,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-ambleside.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-ambleside-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-ambleside-land.pdf",
@@ -26,6 +32,8 @@
   {
     "Municipality": "Glenorchy",
     "Suburb": "Austins Ferry",
+    "Lon": 147.2488,
+    "Lat": -42.775,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-austins-ferry.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-austins-ferry-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-austins-ferry-land.pdf",
@@ -34,6 +42,8 @@
   {
     "Municipality": "Southern Midlands",
     "Suburb": "Bagdad",
+    "Lon": 147.2323,
+    "Lat": -42.6052,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-bagdad.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-bagdad-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-bagdad-land.pdf",
@@ -42,6 +52,8 @@
   {
     "Municipality": "Hobart",
     "Suburb": "Battery Point",
+    "Lon": 147.3333,
+    "Lat": -42.8899,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-battery-point.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-battery-point-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-battery-point-land.pdf",
@@ -50,6 +62,8 @@
   {
     "Municipality": "West Tamar",
     "Suburb": "Beaconsfield",
+    "Lon": 146.7779,
+    "Lat": -41.2016,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-beaconsfield.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-beaconsfield-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-beaconsfield-land.pdf",
@@ -58,6 +72,8 @@
   {
     "Municipality": "West Tamar",
     "Suburb": "Beauty Point",
+    "Lon": 146.8034,
+    "Lat": -41.1599,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-beauty-point.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-beauty-point-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-beauty-point-land.pdf",
@@ -66,6 +82,8 @@
   {
     "Municipality": "Clarence",
     "Suburb": "Bellerive",
+    "Lon": 147.3776,
+    "Lat": -42.8738,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-bellerive.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-bellerive-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-bellerive-land.pdf",
@@ -74,6 +92,8 @@
   {
     "Municipality": "Glenorchy",
     "Suburb": "Berriedale",
+    "Lon": 147.2358,
+    "Lat": -42.8145,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-berriedale.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-berriedale-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-berriedale-land.pdf",
@@ -82,6 +102,8 @@
   {
     "Municipality": "Glamorgan/Spring Bay",
     "Suburb": "Bicheno",
+    "Lon": 148.2528,
+    "Lat": -41.9014,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-bicheno.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-bicheno-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-bicheno-land.pdf",
@@ -90,6 +112,8 @@
   {
     "Municipality": "Break O'Day",
     "Suburb": "Binalong Bay",
+    "Lon": 148.28,
+    "Lat": -41.2494,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-binalong-bay.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-binalong-bay-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-binalong-bay-land.pdf",
@@ -98,6 +122,8 @@
   {
     "Municipality": "Kingborough",
     "Suburb": "Blackmans Bay",
+    "Lon": 147.3182,
+    "Lat": -43.0075,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-blackmans-bay.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-blackmans-bay-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-blackmans-bay-land.pdf",
@@ -106,6 +132,8 @@
   {
     "Municipality": "Meander Valley",
     "Suburb": "Blackstone Heights",
+    "Lon": 147.0812,
+    "Lat": -41.4634,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-blackstone-heights.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-blackstone-heights-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-blackstone-heights-land.pdf",
@@ -114,6 +142,8 @@
   {
     "Municipality": "Dorset",
     "Suburb": "Branxholm",
+    "Lon": 147.7475,
+    "Lat": -41.1742,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-branxholm.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-branxholm-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-branxholm-land.pdf",
@@ -122,6 +152,8 @@
   {
     "Municipality": "Brighton",
     "Suburb": "Bridgewater",
+    "Lon": 147.2324,
+    "Lat": -42.7261,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-bridgewater.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-bridgewater-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-bridgewater-land.pdf",
@@ -130,6 +162,8 @@
   {
     "Municipality": "Dorset",
     "Suburb": "Bridport",
+    "Lon": 147.3728,
+    "Lat": -41.0293,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-bridport.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-bridport-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-bridport-land.pdf",
@@ -138,6 +172,8 @@
   {
     "Municipality": "Brighton",
     "Suburb": "Brighton",
+    "Lon": 147.23,
+    "Lat": -42.6983,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-brighton.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-brighton-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-brighton-land.pdf",
@@ -146,6 +182,8 @@
   {
     "Municipality": "Burnie",
     "Suburb": "Brooklyn",
+    "Lon": 145.9073,
+    "Lat": -41.0722,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-brooklyn.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-brooklyn-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-brooklyn-land.pdf",
@@ -154,6 +192,8 @@
   {
     "Municipality": "Burnie",
     "Suburb": "Burnie",
+    "Lon": 145.9057,
+    "Lat": -41.0539,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-burnie.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-burnie-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-burnie-land.pdf",
@@ -162,6 +202,8 @@
   {
     "Municipality": "Clarence",
     "Suburb": "Cambridge",
+    "Lon": 147.4437,
+    "Lat": -42.8248,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-cambridge.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-cambridge-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-cambridge-land.pdf",
@@ -170,6 +212,8 @@
   {
     "Municipality": "Southern Midlands",
     "Suburb": "Campania",
+    "Lon": 147.4367,
+    "Lat": -42.617,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-campania.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-campania-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-campania-land.pdf",
@@ -178,6 +222,8 @@
   {
     "Municipality": "Northern Midlands",
     "Suburb": "Campbell Town",
+    "Lon": 147.4587,
+    "Lat": -41.9176,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-campbell-town.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-campbell-town-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-campbell-town-land.pdf",
@@ -186,6 +232,8 @@
   {
     "Municipality": "Sorell",
     "Suburb": "Carlton",
+    "Lon": 147.656,
+    "Lat": -42.8578,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-carlton.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-carlton-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-carlton-land.pdf",
@@ -194,6 +242,8 @@
   {
     "Municipality": "Glenorchy",
     "Suburb": "Chigwell",
+    "Lon": 147.2339,
+    "Lat": -42.8075,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-chigwell.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-chigwell-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-chigwell-land.pdf",
@@ -202,6 +252,8 @@
   {
     "Municipality": "Glenorchy",
     "Suburb": "Claremont",
+    "Lon": 147.2226,
+    "Lat": -42.788,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-claremont.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-claremont-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-claremont-land.pdf",
@@ -210,6 +262,8 @@
   {
     "Municipality": "Clarence",
     "Suburb": "Clarendon Vale",
+    "Lon": 147.4489,
+    "Lat": -42.8876,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-clarendon-vale.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-clarendon-vale-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-clarendon-vale-land.pdf",
@@ -218,6 +272,8 @@
   {
     "Municipality": "Clarence",
     "Suburb": "Clifton Beach",
+    "Lon": 147.5288,
+    "Lat": -42.9798,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-clifton-beach.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-clifton-beach-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-clifton-beach-land.pdf",
@@ -226,6 +282,8 @@
   {
     "Municipality": "Glenorchy",
     "Suburb": "Collinsvale",
+    "Lon": 147.1737,
+    "Lat": -42.8415,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-collinsvale.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-collinsvale-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-collinsvale-land.pdf",
@@ -234,6 +292,8 @@
   {
     "Municipality": "Burnie",
     "Suburb": "Cooee",
+    "Lon": 145.8728,
+    "Lat": -41.0446,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-cooee.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-cooee-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-cooee-land.pdf",
@@ -242,6 +302,8 @@
   {
     "Municipality": "Huon Valley",
     "Suburb": "Cradoc",
+    "Lon": 147.0393,
+    "Lat": -43.1105,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-cradoc.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-cradoc-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-cradoc-land.pdf",
@@ -250,6 +312,8 @@
   {
     "Municipality": "Clarence",
     "Suburb": "Cremorne",
+    "Lon": 147.5236,
+    "Lat": -42.9504,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-cremorne.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-cremorne-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-cremorne-land.pdf",
@@ -258,6 +322,8 @@
   {
     "Municipality": "Northern Midlands",
     "Suburb": "Cressy",
+    "Lon": 147.088,
+    "Lat": -41.7841,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-cressy.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-cressy-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-cressy-land.pdf",
@@ -266,6 +332,8 @@
   {
     "Municipality": "Huon Valley",
     "Suburb": "Cygnet",
+    "Lon": 147.0894,
+    "Lat": -43.1336,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-cygnet.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-cygnet-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-cygnet-land.pdf",
@@ -274,6 +342,8 @@
   {
     "Municipality": "Meander Valley",
     "Suburb": "Deloraine",
+    "Lon": 146.6549,
+    "Lat": -41.5326,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-deloraine.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-deloraine-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-deloraine-land.pdf",
@@ -282,6 +352,8 @@
   {
     "Municipality": "Dorset",
     "Suburb": "Derby",
+    "Lon": 147.8307,
+    "Lat": -41.1642,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-derby.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-derby-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-derby-land.pdf",
@@ -290,6 +362,8 @@
   {
     "Municipality": "Glenorchy",
     "Suburb": "Derwent Park",
+    "Lon": 147.2984,
+    "Lat": -42.8338,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-derwent-park.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-derwent-park-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-derwent-park-land.pdf",
@@ -298,6 +372,8 @@
   {
     "Municipality": "Devonport",
     "Suburb": "Devonport",
+    "Lon": 146.3452,
+    "Lat": -41.177,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-devonport.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-devonport-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-devonport-land.pdf",
@@ -306,6 +382,8 @@
   {
     "Municipality": "Launceston",
     "Suburb": "Dilston",
+    "Lon": 147.0766,
+    "Lat": -41.3205,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-dilston.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-dilston-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-dilston-land.pdf",
@@ -314,6 +392,8 @@
   {
     "Municipality": "Sorell",
     "Suburb": "Dodges Ferry",
+    "Lon": 147.6282,
+    "Lat": -42.8553,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-dodges-ferry.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-dodges-ferry-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-dodges-ferry-land.pdf",
@@ -322,6 +402,8 @@
   {
     "Municipality": "Huon Valley",
     "Suburb": "Dover",
+    "Lon": 147.0148,
+    "Lat": -43.2979,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-dover.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-dover-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-dover-land.pdf",
@@ -330,6 +412,8 @@
   {
     "Municipality": "Brighton",
     "Suburb": "Dromedary",
+    "Lon": 147.1458,
+    "Lat": -42.7264,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-dromedary.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-dromedary-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-dromedary-land.pdf",
@@ -338,6 +422,8 @@
   {
     "Municipality": "Hobart",
     "Suburb": "Dynnyrne",
+    "Lon": 147.3129,
+    "Lat": -42.9052,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-dynnyrne.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-dynnyrne-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-dynnyrne-land.pdf",
@@ -346,6 +432,8 @@
   {
     "Municipality": "Tasman",
     "Suburb": "Eaglehawk Neck",
+    "Lon": 147.9136,
+    "Lat": -43.0046,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-eaglehawk-neck.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-eaglehawk-neck-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-eaglehawk-neck-land.pdf",
@@ -354,6 +442,8 @@
   {
     "Municipality": "Devonport",
     "Suburb": "East Devonport",
+    "Lon": 146.3889,
+    "Lat": -41.1855,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-east-devonport.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-east-devonport-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-east-devonport-land.pdf",
@@ -362,6 +452,8 @@
   {
     "Municipality": "Launceston",
     "Suburb": "East Launceston",
+    "Lon": 147.1501,
+    "Lat": -41.439,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-east-launceston.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-east-launceston-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-east-launceston-land.pdf",
@@ -370,6 +462,8 @@
   {
     "Municipality": "Northern Midlands",
     "Suburb": "Evandale",
+    "Lon": 147.3062,
+    "Lat": -41.5695,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-evandale.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-evandale-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-evandale-land.pdf",
@@ -378,6 +472,8 @@
   {
     "Municipality": "West Tamar",
     "Suburb": "Exeter",
+    "Lon": 146.9341,
+    "Lat": -41.3045,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-exeter.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-exeter-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-exeter-land.pdf",
@@ -386,6 +482,8 @@
   {
     "Municipality": "Hobart",
     "Suburb": "Fern Tree",
+    "Lon": 147.2641,
+    "Lat": -42.9327,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-fern-tree.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-fern-tree-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-fern-tree-land.pdf",
@@ -394,6 +492,8 @@
   {
     "Municipality": "Sorell",
     "Suburb": "Forcett",
+    "Lon": 147.6665,
+    "Lat": -42.8096,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-forcett.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-forcett-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-forcett-land.pdf",
@@ -402,6 +502,8 @@
   {
     "Municipality": "Huon Valley",
     "Suburb": "Franklin",
+    "Lon": 146.9835,
+    "Lat": -43.0826,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-franklin.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-franklin-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-franklin-land.pdf",
@@ -410,6 +512,8 @@
   {
     "Municipality": "Brighton",
     "Suburb": "Gagebrook",
+    "Lon": 147.2738,
+    "Lat": -42.7427,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-gagebrook.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-gagebrook-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-gagebrook-land.pdf",
@@ -418,6 +522,8 @@
   {
     "Municipality": "Huon Valley",
     "Suburb": "Geeveston",
+    "Lon": 146.8662,
+    "Lat": -43.1531,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-geeveston.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-geeveston-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-geeveston-land.pdf",
@@ -426,6 +532,8 @@
   {
     "Municipality": "Clarence",
     "Suburb": "Geilston Bay",
+    "Lon": 147.3507,
+    "Lat": -42.8308,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-geilston-bay.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-geilston-bay-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-geilston-bay-land.pdf",
@@ -434,6 +542,8 @@
   {
     "Municipality": "George Town",
     "Suburb": "George Town",
+    "Lon": 146.9009,
+    "Lat": -41.091,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-george-town.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-george-town-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-george-town-land.pdf",
@@ -442,6 +552,8 @@
   {
     "Municipality": "Hobart",
     "Suburb": "Glebe",
+    "Lon": 147.3268,
+    "Lat": -42.8738,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-glebe.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-glebe-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-glebe-land.pdf",
@@ -450,6 +562,8 @@
   {
     "Municipality": "Huon Valley",
     "Suburb": "Glen Huon",
+    "Lon": 146.9253,
+    "Lat": -43.0421,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-glen-huon.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-glen-huon-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-glen-huon-land.pdf",
@@ -458,6 +572,8 @@
   {
     "Municipality": "Glenorchy",
     "Suburb": "Glenorchy",
+    "Lon": 147.2654,
+    "Lat": -42.8434,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-glenorchy.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-glenorchy-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-glenorchy-land.pdf",
@@ -466,6 +582,8 @@
   {
     "Municipality": "Glenorchy",
     "Suburb": "Goodwood",
+    "Lon": 147.2934,
+    "Lat": -42.8268,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-goodwood.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-goodwood-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-goodwood-land.pdf",
@@ -474,6 +592,8 @@
   {
     "Municipality": "Glenorchy",
     "Suburb": "Granton",
+    "Lon": 147.1899,
+    "Lat": -42.7625,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-granton.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-granton-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-granton-land.pdf",
@@ -482,6 +602,8 @@
   {
     "Municipality": "West Tamar",
     "Suburb": "Gravelly Beach",
+    "Lon": 146.9633,
+    "Lat": -41.2827,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-gravelly-beach.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-gravelly-beach-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-gravelly-beach-land.pdf",
@@ -490,6 +612,8 @@
   {
     "Municipality": "West Tamar",
     "Suburb": "Greens Beach",
+    "Lon": 146.7424,
+    "Lat": -41.1005,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-greens-beach.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-greens-beach-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-greens-beach-land.pdf",
@@ -498,6 +622,8 @@
   {
     "Municipality": "West Tamar",
     "Suburb": "Grindelwald",
+    "Lon": 147.0052,
+    "Lat": -41.3514,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-grindelwald.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-grindelwald-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-grindelwald-land.pdf",
@@ -506,6 +632,8 @@
   {
     "Municipality": "Huon Valley",
     "Suburb": "Grove",
+    "Lon": 147.1015,
+    "Lat": -42.9876,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-grove.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-grove-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-grove-land.pdf",
@@ -514,6 +642,8 @@
   {
     "Municipality": "Meander Valley",
     "Suburb": "Hadspen",
+    "Lon": 147.0603,
+    "Lat": -41.5112,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-hadspen.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-hadspen-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-hadspen-land.pdf",
@@ -522,6 +652,8 @@
   {
     "Municipality": "Burnie",
     "Suburb": "Havenview",
+    "Lon": 145.9106,
+    "Lat": -41.0867,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-havenview.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-havenview-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-havenview-land.pdf",
@@ -530,6 +662,8 @@
   {
     "Municipality": "Burnie",
     "Suburb": "Hillcrest",
+    "Lon": 145.8945,
+    "Lat": -41.0632,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-hillcrest.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-hillcrest-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-hillcrest-land.pdf",
@@ -538,6 +672,8 @@
   {
     "Municipality": "Hobart",
     "Suburb": "Hobart",
+    "Lon": 147.3273,
+    "Lat": -42.8821,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-hobart.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-hobart-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-hobart-land.pdf",
@@ -546,6 +682,8 @@
   {
     "Municipality": "Kingborough",
     "Suburb": "Howden",
+    "Lon": 147.299,
+    "Lat": -43.0208,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-howden.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-howden-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-howden-land.pdf",
@@ -554,6 +692,8 @@
   {
     "Municipality": "Clarence",
     "Suburb": "Howrah",
+    "Lon": 147.4111,
+    "Lat": -42.8841,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-howrah.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-howrah-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-howrah-land.pdf",
@@ -562,6 +702,8 @@
   {
     "Municipality": "Kingborough",
     "Suburb": "Huntingfield",
+    "Lon": 147.2944,
+    "Lat": -43.0014,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-huntingfield.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-huntingfield-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-huntingfield-land.pdf",
@@ -570,6 +712,8 @@
   {
     "Municipality": "Huon Valley",
     "Suburb": "Huonville",
+    "Lon": 147.058,
+    "Lat": -43.0295,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-huonville.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-huonville-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-huonville-land.pdf",
@@ -578,6 +722,8 @@
   {
     "Municipality": "Launceston",
     "Suburb": "Invermay",
+    "Lon": 147.133,
+    "Lat": -41.4213,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-invermay.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-invermay-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-invermay-land.pdf",
@@ -586,6 +732,8 @@
   {
     "Municipality": "Huon Valley",
     "Suburb": "Judbury",
+    "Lon": 146.9292,
+    "Lat": -42.964,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-judbury.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-judbury-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-judbury-land.pdf",
@@ -594,6 +742,8 @@
   {
     "Municipality": "Kingborough",
     "Suburb": "Kettering",
+    "Lon": 147.2294,
+    "Lat": -43.1278,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-kettering.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-kettering-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-kettering-land.pdf",
@@ -602,6 +752,8 @@
   {
     "Municipality": "Launceston",
     "Suburb": "Kings Meadows",
+    "Lon": 147.1613,
+    "Lat": -41.4706,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-kings-meadows.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-kings-meadows-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-kings-meadows-land.pdf",
@@ -610,6 +762,8 @@
   {
     "Municipality": "Kingborough",
     "Suburb": "Kingston",
+    "Lon": 147.2928,
+    "Lat": -42.963,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-kingston.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-kingston-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-kingston-land.pdf",
@@ -618,6 +772,8 @@
   {
     "Municipality": "Kingborough",
     "Suburb": "Kingston Beach",
+    "Lon": 147.3213,
+    "Lat": -42.9842,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-kingston-beach.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-kingston-beach-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-kingston-beach-land.pdf",
@@ -626,6 +782,8 @@
   {
     "Municipality": "Latrobe",
     "Suburb": "Latrobe",
+    "Lon": 146.4157,
+    "Lat": -41.2513,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-latrobe.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-latrobe-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-latrobe-land.pdf",
@@ -634,6 +792,8 @@
   {
     "Municipality": "Clarence",
     "Suburb": "Lauderdale",
+    "Lon": 147.4872,
+    "Lat": -42.9101,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-lauderdale.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-lauderdale-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-lauderdale-land.pdf",
@@ -642,6 +802,8 @@
   {
     "Municipality": "Launceston",
     "Suburb": "Launceston",
+    "Lon": 147.1441,
+    "Lat": -41.4332,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-launceston.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-launceston-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-launceston-land.pdf",
@@ -650,6 +812,8 @@
   {
     "Municipality": "West Tamar",
     "Suburb": "Legana",
+    "Lon": 147.044,
+    "Lat": -41.3728,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-legana.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-legana-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-legana-land.pdf",
@@ -658,6 +822,8 @@
   {
     "Municipality": "Hobart",
     "Suburb": "Lenah Valley",
+    "Lon": 147.2742,
+    "Lat": -42.871,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-lenah-valley.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-lenah-valley-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-lenah-valley-land.pdf",
@@ -666,6 +832,8 @@
   {
     "Municipality": "Sorell",
     "Suburb": "Lewisham",
+    "Lon": 147.6133,
+    "Lat": -42.8285,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-lewisham.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-lewisham-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-lewisham-land.pdf",
@@ -674,6 +842,8 @@
   {
     "Municipality": "Clarence",
     "Suburb": "Lindisfarne",
+    "Lon": 147.3689,
+    "Lat": -42.8429,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-lindisfarne.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-lindisfarne-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-lindisfarne-land.pdf",
@@ -682,6 +852,8 @@
   {
     "Municipality": "Northern Midlands",
     "Suburb": "Longford",
+    "Lon": 147.1228,
+    "Lat": -41.6071,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-longford.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-longford-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-longford-land.pdf",
@@ -690,6 +862,8 @@
   {
     "Municipality": "Glenorchy",
     "Suburb": "Lutana",
+    "Lon": 147.3136,
+    "Lat": -42.8379,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-lutana.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-lutana-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-lutana-land.pdf",
@@ -698,6 +872,8 @@
   {
     "Municipality": "Kingborough",
     "Suburb": "Margate",
+    "Lon": 147.2341,
+    "Lat": -43.0298,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-margate.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-margate-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-margate-land.pdf",
@@ -706,6 +882,8 @@
   {
     "Municipality": "Launceston",
     "Suburb": "Mayfield",
+    "Lon": 147.1337,
+    "Lat": -41.3875,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-mayfield.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-mayfield-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-mayfield-land.pdf",
@@ -714,6 +892,8 @@
   {
     "Municipality": "Devonport",
     "Suburb": "Miandetta",
+    "Lon": 146.3533,
+    "Lat": -41.1956,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-miandetta.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-miandetta-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-miandetta-land.pdf",
@@ -722,6 +902,8 @@
   {
     "Municipality": "Sorell",
     "Suburb": "Midway Point",
+    "Lon": 147.5294,
+    "Lat": -42.7941,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-midway-point.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-midway-point-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-midway-point-land.pdf",
@@ -730,6 +912,8 @@
   {
     "Municipality": "Central Highlands",
     "Suburb": "Miena",
+    "Lon": 146.6902,
+    "Lat": -41.9826,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-miena.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-miena-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-miena-land.pdf",
@@ -738,6 +922,8 @@
   {
     "Municipality": "Meander Valley",
     "Suburb": "Mole Creek",
+    "Lon": 146.3628,
+    "Lat": -41.5561,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-mole-creek.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-mole-creek-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-mole-creek-land.pdf",
@@ -746,6 +932,8 @@
   {
     "Municipality": "Clarence",
     "Suburb": "Montagu Bay",
+    "Lon": 147.3582,
+    "Lat": -42.8645,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-montagu-bay.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-montagu-bay-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-montagu-bay-land.pdf",
@@ -754,6 +942,8 @@
   {
     "Municipality": "Burnie",
     "Suburb": "Montello",
+    "Lon": 145.8962,
+    "Lat": -41.0575,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-montello.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-montello-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-montello-land.pdf",
@@ -762,6 +952,8 @@
   {
     "Municipality": "Glenorchy",
     "Suburb": "Montrose",
+    "Lon": 147.2495,
+    "Lat": -42.83,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-montrose.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-montrose-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-montrose-land.pdf",
@@ -770,6 +962,8 @@
   {
     "Municipality": "Glenorchy",
     "Suburb": "Moonah",
+    "Lon": 147.2956,
+    "Lat": -42.8454,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-moonah.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-moonah-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-moonah-land.pdf",
@@ -778,6 +972,8 @@
   {
     "Municipality": "Clarence",
     "Suburb": "Mornington",
+    "Lon": 147.3992,
+    "Lat": -42.8613,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-mornington.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-mornington-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-mornington-land.pdf",
@@ -786,6 +982,8 @@
   {
     "Municipality": "Hobart",
     "Suburb": "Mount Nelson",
+    "Lon": 147.327,
+    "Lat": -42.9227,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-mount-nelson.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-mount-nelson-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-mount-nelson-land.pdf",
@@ -794,6 +992,8 @@
   {
     "Municipality": "Hobart",
     "Suburb": "Mount Stuart",
+    "Lon": 147.3023,
+    "Lat": -42.8722,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-mount-stuart.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-mount-stuart-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-mount-stuart-land.pdf",
@@ -802,6 +1002,8 @@
   {
     "Municipality": "Huon Valley",
     "Suburb": "Mountain River",
+    "Lon": 147.1273,
+    "Lat": -42.9444,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-mountain-river.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-mountain-river-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-mountain-river-land.pdf",
@@ -810,6 +1012,8 @@
   {
     "Municipality": "Launceston",
     "Suburb": "Mowbray",
+    "Lon": 147.1505,
+    "Lat": -41.4026,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-mowbray.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-mowbray-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-mowbray-land.pdf",
@@ -818,6 +1022,8 @@
   {
     "Municipality": "Tasman",
     "Suburb": "Murdunna",
+    "Lon": 147.9096,
+    "Lat": -42.9436,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-murdunna.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-murdunna-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-murdunna-land.pdf",
@@ -826,6 +1032,8 @@
   {
     "Municipality": "Derwent Valley",
     "Suburb": "New Norfolk",
+    "Lon": 147.0596,
+    "Lat": -42.7827,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-new-norfolk.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-new-norfolk-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-new-norfolk-land.pdf",
@@ -834,6 +1042,8 @@
   {
     "Municipality": "Hobart",
     "Suburb": "New Town",
+    "Lon": 147.3088,
+    "Lat": -42.8562,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-new-town.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-new-town-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-new-town-land.pdf",
@@ -842,6 +1052,8 @@
   {
     "Municipality": "Launceston",
     "Suburb": "Newnham",
+    "Lon": 147.1168,
+    "Lat": -41.3887,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-newnham.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-newnham-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-newnham-land.pdf",
@@ -850,6 +1062,8 @@
   {
     "Municipality": "Launceston",
     "Suburb": "Newstead",
+    "Lon": 147.1627,
+    "Lat": -41.4427,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-newstead.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-newstead-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-newstead-land.pdf",
@@ -858,6 +1072,8 @@
   {
     "Municipality": "Hobart",
     "Suburb": "North Hobart",
+    "Lon": 147.3169,
+    "Lat": -42.8717,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-north-hobart.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-north-hobart-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-north-hobart-land.pdf",
@@ -866,6 +1082,8 @@
   {
     "Municipality": "Launceston",
     "Suburb": "Norwood",
+    "Lon": 147.1806,
+    "Lat": -41.4594,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-norwood.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-norwood-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-norwood-land.pdf",
@@ -874,6 +1092,8 @@
   {
     "Municipality": "Tasman",
     "Suburb": "Nubeena",
+    "Lon": 147.7196,
+    "Lat": -43.0889,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-nubeena.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-nubeena-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-nubeena-land.pdf",
@@ -882,6 +1102,8 @@
   {
     "Municipality": "Clarence",
     "Suburb": "Oakdowns",
+    "Lon": 147.456,
+    "Lat": -42.9016,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-oakdowns.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-oakdowns-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-oakdowns-land.pdf",
@@ -890,6 +1112,8 @@
   {
     "Municipality": "Southern Midlands",
     "Suburb": "Oatlands",
+    "Lon": 147.3244,
+    "Lat": -42.2868,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-oatlands.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-oatlands-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-oatlands-land.pdf",
@@ -898,6 +1122,8 @@
   {
     "Municipality": "Brighton",
     "Suburb": "Old Beach",
+    "Lon": 147.2985,
+    "Lat": -42.7616,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-old-beach.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-old-beach-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-old-beach-land.pdf",
@@ -906,6 +1132,8 @@
   {
     "Municipality": "Clarence",
     "Suburb": "Opossum Bay",
+    "Lon": 147.4073,
+    "Lat": -42.9897,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-opossum-bay.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-opossum-bay-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-opossum-bay-land.pdf",
@@ -914,6 +1142,8 @@
   {
     "Municipality": "Glamorgan/Spring Bay",
     "Suburb": "Orford",
+    "Lon": 147.8643,
+    "Lat": -42.5635,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-orford.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-orford-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-orford-land.pdf",
@@ -922,6 +1152,8 @@
   {
     "Municipality": "Clarence",
     "Suburb": "Otago",
+    "Lon": 147.3004,
+    "Lat": -42.8002,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-otago.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-otago-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-otago-land.pdf",
@@ -930,6 +1162,8 @@
   {
     "Municipality": "Burnie",
     "Suburb": "Park Grove",
+    "Lon": 145.8819,
+    "Lat": -41.0547,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-park-grove.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-park-grove-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-park-grove-land.pdf",
@@ -938,6 +1172,8 @@
   {
     "Municipality": "Burnie",
     "Suburb": "Parklands",
+    "Lon": 145.8921,
+    "Lat": -41.0475,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-parklands.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-parklands-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-parklands-land.pdf",
@@ -946,6 +1182,8 @@
   {
     "Municipality": "Central Coast",
     "Suburb": "Penguin",
+    "Lon": 146.055,
+    "Lat": -41.138,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-penguin.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-penguin-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-penguin-land.pdf",
@@ -954,6 +1192,8 @@
   {
     "Municipality": "Northern Midlands",
     "Suburb": "Perth",
+    "Lon": 147.2076,
+    "Lat": -41.6086,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-perth.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-perth-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-perth-land.pdf",
@@ -962,6 +1202,8 @@
   {
     "Municipality": "Tasman",
     "Suburb": "Port Arthur",
+    "Lon": 147.8386,
+    "Lat": -43.1415,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-port-arthur.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-port-arthur-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-port-arthur-land.pdf",
@@ -970,6 +1212,8 @@
   {
     "Municipality": "Huon Valley",
     "Suburb": "Port Huon",
+    "Lon": 146.9579,
+    "Lat": -43.1566,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-port-huon.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-port-huon-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-port-huon-land.pdf",
@@ -978,6 +1222,8 @@
   {
     "Municipality": "Latrobe",
     "Suburb": "Port Sorell",
+    "Lon": 146.5376,
+    "Lat": -41.1719,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-port-sorell.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-port-sorell-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-port-sorell-land.pdf",
@@ -986,6 +1232,8 @@
   {
     "Municipality": "Sorell",
     "Suburb": "Primrose Sands",
+    "Lon": 147.6682,
+    "Lat": -42.8868,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-primrose-sands.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-primrose-sands-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-primrose-sands-land.pdf",
@@ -994,6 +1242,8 @@
   {
     "Municipality": "Launceston",
     "Suburb": "Prospect",
+    "Lon": 147.1425,
+    "Lat": -41.4844,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-prospect.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-prospect-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-prospect-land.pdf",
@@ -1002,6 +1252,8 @@
   {
     "Municipality": "Launceston",
     "Suburb": "Prospect Vale",
+    "Lon": 147.1106,
+    "Lat": -41.4828,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-prospect-vale.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-prospect-vale-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-prospect-vale-land.pdf",
@@ -1010,6 +1262,8 @@
   {
     "Municipality": "Launceston",
     "Suburb": "Punchbowl",
+    "Lon": 147.1647,
+    "Lat": -41.4576,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-punchbowl.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-punchbowl-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-punchbowl-land.pdf",
@@ -1018,6 +1272,8 @@
   {
     "Municipality": "West Coast",
     "Suburb": "Queenstown",
+    "Lon": 145.5439,
+    "Lat": -42.0853,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-queenstown.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-queenstown-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-queenstown-land.pdf",
@@ -1026,6 +1282,8 @@
   {
     "Municipality": "Devonport",
     "Suburb": "Quoiba",
+    "Lon": 146.3348,
+    "Lat": -41.2093,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-quoiba.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-quoiba-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-quoiba-land.pdf",
@@ -1034,6 +1292,8 @@
   {
     "Municipality": "Kentish",
     "Suburb": "Railton",
+    "Lon": 146.4048,
+    "Lat": -41.3305,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-railton.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-railton-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-railton-land.pdf",
@@ -1042,6 +1302,8 @@
   {
     "Municipality": "Huon Valley",
     "Suburb": "Ranelagh",
+    "Lon": 147.0052,
+    "Lat": -42.9983,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-ranelagh.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-ranelagh-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-ranelagh-land.pdf",
@@ -1050,6 +1312,8 @@
   {
     "Municipality": "Launceston",
     "Suburb": "Ravenswood",
+    "Lon": 147.1823,
+    "Lat": -41.4161,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-ravenswood.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-ravenswood-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-ravenswood-land.pdf",
@@ -1058,6 +1322,8 @@
   {
     "Municipality": "Clarence",
     "Suburb": "Richmond",
+    "Lon": 147.4143,
+    "Lat": -42.738,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-richmond.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-richmond-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-richmond-land.pdf",
@@ -1066,6 +1332,8 @@
   {
     "Municipality": "Burnie",
     "Suburb": "Ridgley",
+    "Lon": 145.8329,
+    "Lat": -41.1374,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-ridgley.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-ridgley-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-ridgley-land.pdf",
@@ -1074,6 +1342,8 @@
   {
     "Municipality": "Dorset",
     "Suburb": "Ringarooma",
+    "Lon": 147.7348,
+    "Lat": -41.2623,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-ringarooma.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-ringarooma-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-ringarooma-land.pdf",
@@ -1082,6 +1352,8 @@
   {
     "Municipality": "Clarence",
     "Suburb": "Risdon Vale",
+    "Lon": 147.3702,
+    "Lat": -42.8082,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-risdon-vale.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-risdon-vale-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-risdon-vale-land.pdf",
@@ -1090,6 +1362,8 @@
   {
     "Municipality": "West Tamar",
     "Suburb": "Riverside",
+    "Lon": 147.0485,
+    "Lat": -41.4229,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-riverside.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-riverside-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-riverside-land.pdf",
@@ -1098,6 +1372,8 @@
   {
     "Municipality": "Launceston",
     "Suburb": "Rocherlea",
+    "Lon": 147.1642,
+    "Lat": -41.3736,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-rocherlea.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-rocherlea-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-rocherlea-land.pdf",
@@ -1106,6 +1382,8 @@
   {
     "Municipality": "Clarence",
     "Suburb": "Rokeby",
+    "Lon": 147.4367,
+    "Lat": -42.8958,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-rokeby.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-rokeby-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-rokeby-land.pdf",
@@ -1114,6 +1392,8 @@
   {
     "Municipality": "Burnie",
     "Suburb": "Romaine",
+    "Lon": 145.8943,
+    "Lat": -41.0976,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-romaine.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-romaine-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-romaine-land.pdf",
@@ -1122,6 +1402,8 @@
   {
     "Municipality": "Clarence",
     "Suburb": "Rose Bay",
+    "Lon": 147.3581,
+    "Lat": -42.8586,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-rose-bay.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-rose-bay-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-rose-bay-land.pdf",
@@ -1130,6 +1412,8 @@
   {
     "Municipality": "West Coast",
     "Suburb": "Rosebery",
+    "Lon": 145.5297,
+    "Lat": -41.7938,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-rosebery.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-rosebery-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-rosebery-land.pdf",
@@ -1138,6 +1422,8 @@
   {
     "Municipality": "Glenorchy",
     "Suburb": "Rosetta",
+    "Lon": 147.2489,
+    "Lat": -42.8218,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-rosetta.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-rosetta-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-rosetta-land.pdf",
@@ -1146,6 +1432,8 @@
   {
     "Municipality": "Clarence",
     "Suburb": "Rosny",
+    "Lon": 147.357,
+    "Lat": -42.8707,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-rosny.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-rosny-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-rosny-land.pdf",
@@ -1154,6 +1442,8 @@
   {
     "Municipality": "Clarence",
     "Suburb": "Sandford",
+    "Lon": 147.4908,
+    "Lat": -42.969,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-sandford.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-sandford-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-sandford-land.pdf",
@@ -1162,6 +1452,8 @@
   {
     "Municipality": "Hobart",
     "Suburb": "Sandy Bay",
+    "Lon": 147.3408,
+    "Lat": -42.9121,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-sandy-bay.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-sandy-bay-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-sandy-bay-land.pdf",
@@ -1170,6 +1462,8 @@
   {
     "Municipality": "Break O'Day",
     "Suburb": "Scamander",
+    "Lon": 148.2485,
+    "Lat": -41.4631,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-scamander.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-scamander-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-scamander-land.pdf",
@@ -1178,6 +1472,8 @@
   {
     "Municipality": "Dorset",
     "Suburb": "Scottsdale",
+    "Lon": 147.5205,
+    "Lat": -41.1708,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-scottsdale.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-scottsdale-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-scottsdale-land.pdf",
@@ -1186,6 +1482,8 @@
   {
     "Municipality": "Clarence",
     "Suburb": "Seven Mile Beach",
+    "Lon": 147.5423,
+    "Lat": -42.8412,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-seven-mile-beach.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-seven-mile-beach-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-seven-mile-beach-land.pdf",
@@ -1194,6 +1492,8 @@
   {
     "Municipality": "Latrobe",
     "Suburb": "Shearwater",
+    "Lon": 146.5316,
+    "Lat": -41.1575,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-shearwater.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-shearwater-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-shearwater-land.pdf",
@@ -1202,6 +1502,8 @@
   {
     "Municipality": "Kentish",
     "Suburb": "Sheffield",
+    "Lon": 146.3327,
+    "Lat": -41.386,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-sheffield.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-sheffield-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-sheffield-land.pdf",
@@ -1210,6 +1512,8 @@
   {
     "Municipality": "Burnie",
     "Suburb": "Shorewell Park",
+    "Lon": 145.877,
+    "Lat": -41.0698,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-shorewell-park.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-shorewell-park-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-shorewell-park-land.pdf",
@@ -1218,6 +1522,8 @@
   {
     "Municipality": "Waratah/Wynyard",
     "Suburb": "Sisters Beach",
+    "Lon": 145.5712,
+    "Lat": -40.9235,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-sisters-beach.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-sisters-beach-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-sisters-beach-land.pdf",
@@ -1226,6 +1532,8 @@
   {
     "Municipality": "Circular Head",
     "Suburb": "Smithton",
+    "Lon": 145.1405,
+    "Lat": -40.8443,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-smithton.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-smithton-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-smithton-land.pdf",
@@ -1234,6 +1542,8 @@
   {
     "Municipality": "Kingborough",
     "Suburb": "Snug",
+    "Lon": 147.2096,
+    "Lat": -43.0777,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-snug.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-snug-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-snug-land.pdf",
@@ -1242,6 +1552,8 @@
   {
     "Municipality": "Waratah/Wynyard",
     "Suburb": "Somerset",
+    "Lon": 145.8008,
+    "Lat": -41.0553,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-somerset.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-somerset-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-somerset-land.pdf",
@@ -1250,6 +1562,8 @@
   {
     "Municipality": "Sorell",
     "Suburb": "Sorell",
+    "Lon": 147.5781,
+    "Lat": -42.7789,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-sorell.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-sorell-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-sorell-land.pdf",
@@ -1258,6 +1572,8 @@
   {
     "Municipality": "Clarence",
     "Suburb": "South Arm",
+    "Lon": 147.4285,
+    "Lat": -43.028,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-south-arm.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-south-arm-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-south-arm-land.pdf",
@@ -1266,6 +1582,8 @@
   {
     "Municipality": "Burnie",
     "Suburb": "South Burnie",
+    "Lon": 145.9139,
+    "Lat": -41.0664,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-south-burnie.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-south-burnie-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-south-burnie-land.pdf",
@@ -1274,6 +1592,8 @@
   {
     "Municipality": "Hobart",
     "Suburb": "South Hobart",
+    "Lon": 147.2856,
+    "Lat": -42.8979,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-south-hobart.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-south-hobart-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-south-hobart-land.pdf",
@@ -1282,6 +1602,8 @@
   {
     "Municipality": "Launceston",
     "Suburb": "South Launceston",
+    "Lon": 147.1471,
+    "Lat": -41.4557,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-south-launceston.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-south-launceston-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-south-launceston-land.pdf",
@@ -1290,6 +1612,8 @@
   {
     "Municipality": "Devonport",
     "Suburb": "Spreyton",
+    "Lon": 146.3473,
+    "Lat": -41.2258,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-spreyton.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-spreyton-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-spreyton-land.pdf",
@@ -1298,6 +1622,8 @@
   {
     "Municipality": "Break O'Day",
     "Suburb": "St Helens",
+    "Lon": 148.2002,
+    "Lat": -41.3263,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-st-helens.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-st-helens-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-st-helens-land.pdf",
@@ -1306,6 +1632,8 @@
   {
     "Municipality": "Launceston",
     "Suburb": "St Leonards",
+    "Lon": 147.2404,
+    "Lat": -41.4634,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-st-leonards.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-st-leonards-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-st-leonards-land.pdf",
@@ -1314,6 +1642,8 @@
   {
     "Municipality": "Break O'Day",
     "Suburb": "St Marys",
+    "Lon": 148.1558,
+    "Lat": -41.587,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-st-marys.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-st-marys-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-st-marys-land.pdf",
@@ -1322,6 +1652,8 @@
   {
     "Municipality": "Circular Head",
     "Suburb": "Stanley",
+    "Lon": 145.2745,
+    "Lat": -40.7594,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-stanley.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-stanley-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-stanley-land.pdf",
@@ -1330,6 +1662,8 @@
   {
     "Municipality": "Break O'Day",
     "Suburb": "Stieglitz",
+    "Lon": 148.3025,
+    "Lat": -41.3327,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-stieglitz.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-stieglitz-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-stieglitz-land.pdf",
@@ -1338,6 +1672,8 @@
   {
     "Municipality": "West Coast",
     "Suburb": "Strahan",
+    "Lon": 145.3764,
+    "Lat": -42.1667,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-strahan.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-strahan-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-strahan-land.pdf",
@@ -1346,6 +1682,8 @@
   {
     "Municipality": "Launceston",
     "Suburb": "Summerhill",
+    "Lon": 147.1197,
+    "Lat": -41.4662,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-summerhill.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-summerhill-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-summerhill-land.pdf",
@@ -1354,6 +1692,8 @@
   {
     "Municipality": "Kingborough",
     "Suburb": "Taroona",
+    "Lon": 147.3439,
+    "Lat": -42.9447,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-taroona.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-taroona-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-taroona-land.pdf",
@@ -1362,6 +1702,8 @@
   {
     "Municipality": "Kingborough",
     "Suburb": "Tinderbox",
+    "Lon": 147.3222,
+    "Lat": -43.042,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-tinderbox.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-tinderbox-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-tinderbox-land.pdf",
@@ -1370,6 +1712,8 @@
   {
     "Municipality": "Hobart",
     "Suburb": "Tolmans Hill",
+    "Lon": 147.305,
+    "Lat": -42.9122,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-tolmans-hill.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-tolmans-hill-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-tolmans-hill-land.pdf",
@@ -1378,6 +1722,8 @@
   {
     "Municipality": "Clarence",
     "Suburb": "Tranmere",
+    "Lon": 147.417,
+    "Lat": -42.9218,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-tranmere.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-tranmere-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-tranmere-land.pdf",
@@ -1386,6 +1732,8 @@
   {
     "Municipality": "Launceston",
     "Suburb": "Trevallyn",
+    "Lon": 147.1048,
+    "Lat": -41.4426,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-trevallyn.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-trevallyn-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-trevallyn-land.pdf",
@@ -1394,6 +1742,8 @@
   {
     "Municipality": "Glamorgan/Spring Bay",
     "Suburb": "Triabunna",
+    "Lon": 147.9287,
+    "Lat": -42.4661,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-triabunna.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-triabunna-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-triabunna-land.pdf",
@@ -1402,6 +1752,8 @@
   {
     "Municipality": "Central Coast",
     "Suburb": "Turners Beach",
+    "Lon": 146.2285,
+    "Lat": -41.1699,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-turners-beach.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-turners-beach-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-turners-beach-land.pdf",
@@ -1410,6 +1762,8 @@
   {
     "Municipality": "Central Coast",
     "Suburb": "Ulverstone",
+    "Lon": 146.1872,
+    "Lat": -41.1702,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-ulverstone.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-ulverstone-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-ulverstone-land.pdf",
@@ -1418,6 +1772,8 @@
   {
     "Municipality": "Burnie",
     "Suburb": "Upper Burnie",
+    "Lon": 145.8997,
+    "Lat": -41.0717,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-upper-burnie.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-upper-burnie-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-upper-burnie-land.pdf",
@@ -1426,6 +1782,8 @@
   {
     "Municipality": "Clarence",
     "Suburb": "Warrane",
+    "Lon": 147.3872,
+    "Lat": -42.8507,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-warrane.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-warrane-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-warrane-land.pdf",
@@ -1434,6 +1792,8 @@
   {
     "Municipality": "Launceston",
     "Suburb": "Waverley",
+    "Lon": 147.2078,
+    "Lat": -41.4253,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-waverley.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-waverley-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-waverley-land.pdf",
@@ -1442,6 +1802,8 @@
   {
     "Municipality": "Hobart",
     "Suburb": "West Hobart",
+    "Lon": 147.3045,
+    "Lat": -42.8837,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-west-hobart.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-west-hobart-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-west-hobart-land.pdf",
@@ -1450,6 +1812,8 @@
   {
     "Municipality": "Launceston",
     "Suburb": "West Launceston",
+    "Lon": 147.1264,
+    "Lat": -41.4536,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-west-launceston.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-west-launceston-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-west-launceston-land.pdf",
@@ -1458,6 +1822,8 @@
   {
     "Municipality": "Glenorchy",
     "Suburb": "West Moonah",
+    "Lon": 147.2813,
+    "Lat": -42.8495,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-west-moonah.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-west-moonah-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-west-moonah-land.pdf",
@@ -1466,6 +1832,8 @@
   {
     "Municipality": "Central Coast",
     "Suburb": "West Ulverstone",
+    "Lon": 146.1197,
+    "Lat": -41.1489,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-west-ulverstone.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-west-ulverstone-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-west-ulverstone-land.pdf",
@@ -1474,6 +1842,8 @@
   {
     "Municipality": "Meander Valley",
     "Suburb": "Westbury",
+    "Lon": 146.8211,
+    "Lat": -41.511,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-westbury.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-westbury-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-westbury-land.pdf",
@@ -1482,6 +1852,8 @@
   {
     "Municipality": "Tasman",
     "Suburb": "White Beach",
+    "Lon": 147.727,
+    "Lat": -43.1443,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-white-beach.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-white-beach-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-white-beach-land.pdf",
@@ -1490,6 +1862,8 @@
   {
     "Municipality": "Kingborough",
     "Suburb": "Woodbridge",
+    "Lon": 147.214,
+    "Lat": -43.158,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-woodbridge.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-woodbridge-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-woodbridge-land.pdf",
@@ -1498,6 +1872,8 @@
   {
     "Municipality": "Waratah/Wynyard",
     "Suburb": "Wynyard",
+    "Lon": 145.7191,
+    "Lat": -41.0093,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-wynyard.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-wynyard-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-wynyard-land.pdf",
@@ -1506,6 +1882,8 @@
   {
     "Municipality": "Launceston",
     "Suburb": "Youngtown",
+    "Lon": 147.1723,
+    "Lat": -41.4852,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-youngtown.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-youngtown-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-youngtown-land.pdf",
@@ -1514,6 +1892,8 @@
   {
     "Municipality": "West Coast",
     "Suburb": "Zeehan",
+    "Lon": 145.3485,
+    "Lat": -41.8904,
     "Houses": "https://reit.com.au/wp-content/suburb_reports/web-zeehan.pdf",
     "Other": "https://reit.com.au/wp-content/suburb_reports/web-zeehan-other.pdf",
     "Land": "https://reit.com.au/wp-content/suburb_reports/web-zeehan-land.pdf",
