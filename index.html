@@ -39,6 +39,7 @@
       border-radius: 5px;
     }
     .results {
+  transition: max-height 0.6s ease;
   
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -169,7 +170,9 @@
       const computedStyle = window.getComputedStyle(results).maxHeight;
     const expanded = computedStyle === 'none' || computedStyle === 'nonepx';
     console.log('Current max-height:', computedStyle, '| Expanded:', !expanded);
-      results.style.maxHeight = expanded ? '450px' : 'none';
+      
+    results.style.maxHeight = expanded ? '450px' : results.scrollHeight + 'px';
+    
       button.textContent = expanded ? 'Show More ▾' : 'Show Less ▴';
     });
 
@@ -320,7 +323,9 @@
       const computedStyle = window.getComputedStyle(results).maxHeight;
     const expanded = computedStyle === 'none' || computedStyle === 'nonepx';
     console.log('Current max-height:', computedStyle, '| Expanded:', !expanded);
-      results.style.maxHeight = expanded ? '450px' : 'none';
+      
+    results.style.maxHeight = expanded ? '450px' : results.scrollHeight + 'px';
+    
       button.textContent = expanded ? 'Show More ▾' : 'Show Less ▴';
     });
 
