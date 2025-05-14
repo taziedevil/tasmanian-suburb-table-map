@@ -264,6 +264,9 @@ let linkChecks = reportTypes.map(type => {
 });
 
 Promise.all(linkChecks).then(() => {
+  if (popupContent.trim() === `<strong>${value}</strong><br><br>`) {
+    popupContent += `<em>Municipality reports coming soon.</em>`;
+  }
   municipalityMarker.bindPopup(popupContent).openPopup();
 });
 
