@@ -140,15 +140,7 @@
     <div id="map"></div>
   </div>
 
-  <script src="https://unpkg.com/leaflet/dist/leaflet.js">
-    document.getElementById('toggleMore').addEventListener('click', () => {
-      const results = document.getElementById('results');
-      const button = document.getElementById('toggleMore');
-      const expanded = results.style.maxHeight === 'none';
-      results.style.maxHeight = expanded ? '700px' : 'none';
-      button.textContent = expanded ? 'Show More ▾' : 'Show Less ▴';
-    });
-    </script>
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
   <script>
     let suburbData = [];
 
