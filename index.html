@@ -253,9 +253,11 @@ mapTab.addEventListener('click', () => {
     function initMap(data) {
       if (!map) {
         map = L.map('map').setView([-42.0409, 146.8087], 7);
-        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-          attribution: '&copy; OpenStreetMap contributors'
-        }).addTo(map);
+        L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+  attribution: '&copy; OpenStreetMap & CartoDB',
+  subdomains: 'abcd',
+  maxZoom: 19
+}).addTo(map);
       }
 
       markers.forEach(m => map.removeLayer(m));
