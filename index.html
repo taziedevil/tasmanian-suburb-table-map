@@ -39,6 +39,9 @@
       border-radius: 5px;
     }
     .results {
+  max-height: 650px;
+  overflow-y: auto;
+  padding-right: 10px;
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
       gap: 20px;
@@ -228,7 +231,7 @@
             ${d.Land ? `<a href="${d.Land}" target="_blank">🌱 Land</a><br>` : ''}
             ${d.Rental ? `<a href="${d.Rental}" target="_blank">🔑 Rental</a>` : ''}
           `);
-          marker.bindTooltip(d.Suburb, { permanent: true, direction: 'top', className: 'suburb-label' });
+          marker.bindTooltip(d.Suburb, { permanent: true, direction: 'top', offset: [0, -20], className: 'suburb-label' });
       markers.push(marker);
         }
       });
