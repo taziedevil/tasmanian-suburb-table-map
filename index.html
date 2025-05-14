@@ -215,6 +215,7 @@ mapTab.addEventListener('click', () => {
         if (bounds.isValid()) map.fitBounds(bounds);
             });
       window.markerCluster = clusterGroup;
+      window.markerCluster = clusterGroup;
       map.addLayer(clusterGroup);
     }
 
@@ -228,6 +229,7 @@ mapTab.addEventListener('click', () => {
         const bounds = L.latLngBounds(filtered.filter(d => d.Lat && d.Lon).map(d => [d.Lat, d.Lon]));
         if (bounds.isValid()) map.fitBounds(bounds);
             });
+      window.markerCluster = clusterGroup;
       window.markerCluster = clusterGroup;
       map.addLayer(clusterGroup);
     }
@@ -255,13 +257,13 @@ mapTab.addEventListener('click', () => {
         results.appendChild(card);
             });
       window.markerCluster = clusterGroup;
+      window.markerCluster = clusterGroup;
       map.addLayer(clusterGroup);
     }
 
     let map, markers = [];
 
-    let clusterGroup;
-function initMap(data) {
+    function initMap(data) {
       if (!map) {
         map = L.map('map').setView([-42.0409, 146.8087], 7);
         L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
@@ -294,6 +296,7 @@ function initMap(data) {
       markers.push(marker);
         }
             });
+      window.markerCluster = clusterGroup;
       window.markerCluster = clusterGroup;
       map.addLayer(clusterGroup);
     }
