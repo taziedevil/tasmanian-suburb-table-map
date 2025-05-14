@@ -95,7 +95,15 @@
         transform: translateY(0);
       }
     }
-  </style>
+  
+    .highlight {
+      animation: pulseHighlight 1.5s ease;
+    }
+    @keyframes pulseHighlight {
+      0% { background-color: #e0f4eb; }
+      100% { background-color: transparent; }
+    }
+    </style>
 </head>
 <body>
   <div class="header">
@@ -143,6 +151,8 @@
         const filtered = value ? suburbData.filter(d => d.Municipality === value) : suburbData;
         displayResults(filtered);
         initMap(filtered);
+        const bounds = L.latLngBounds(filtered.filter(d => d.Lat && d.Lon).map(d => [d.Lat, d.Lon]));
+        if (bounds.isValid()) map.fitBounds(bounds);
       });
     }
 
@@ -153,6 +163,8 @@
         const filtered = suburbData.filter(d => d.Suburb.toLowerCase().includes(q));
         displayResults(filtered);
         initMap(filtered);
+        const bounds = L.latLngBounds(filtered.filter(d => d.Lat && d.Lon).map(d => [d.Lat, d.Lon]));
+        if (bounds.isValid()) map.fitBounds(bounds);
       });
     }
 
@@ -164,9 +176,11 @@
 
       data.forEach(d => {
         const card = document.createElement('div');
+        const id = 'suburb-' + d.Suburb.toLowerCase().replace(/\s+/g, '-');
         card.className = 'card';
+        card.id = id;
         card.innerHTML = `
-          <div class="card-header">${d.Suburb} (${d.Municipality})</div>
+          <div class="card-header" id="suburb-${d.Suburb.toLowerCase().replace(/\s+/g, "-")}">${d.Suburb} (${d.Municipality})</div>
           <div class="card-body">
             ${d.Houses ? `<a href="${d.Houses}" target="_blank"><span class="icon">🏠</span> Houses Report</a>` : ''}
             ${d.Other ? `<a href="${d.Other}" target="_blank"><span class="icon">🏢</span> Other Dwellings Report</a>` : ''}
@@ -191,14 +205,22 @@
       markers = [];
 
       data.forEach(d => {
-        if (d.Lat && d.Lon) {
+        if (d.Lat != null && d.Lon != null) { console.log("Marker for", d.Suburb, d.Lat, d.Lon);
           const marker = L.circleMarker([d.Lat, d.Lon], {
             radius: 7,
             color: '#2E6B52',
             fillColor: '#2E6B52',
             fillOpacity: 0.8
           }).addTo(map);
-          marker.bindPopup(`<strong>${d.Suburb}</strong><br>${d.Municipality}<br>
+          marker.on('click', () => {
+      const target = document.getElementById('suburb-' + d.Suburb.toLowerCase().replace(/\s+/g, '-'));
+      if (target) {
+        target.scrollIntoView({ behavior: 'smooth' });
+        target.classList.add('highlight');
+        setTimeout(() => target.classList.remove('highlight'), 2000);
+      }
+    });
+    marker.bindPopup(`<strong>${d.Suburb}</strong><br>${d.Municipality}<br>
             ${d.Houses ? `<a href="${d.Houses}" target="_blank">🏠 Houses</a><br>` : ''}
             ${d.Other ? `<a href="${d.Other}" target="_blank">🏢 Other Dwellings</a><br>` : ''}
             ${d.Land ? `<a href="${d.Land}" target="_blank">🌱 Land</a><br>` : ''}
