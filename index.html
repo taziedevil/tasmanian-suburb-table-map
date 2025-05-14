@@ -277,8 +277,21 @@ Promise.all(linkChecks).then(() => {
         const filtered = value ? suburbData.filter(d => d.Municipality === value) : suburbData;
         displayResults(filtered);
         initMap(filtered);
-        const bounds = L.latLngBounds(filtered.filter(d => d.Lat && d.Lon).map(d => [d.Lat, d.Lon]));
-        if (bounds.isValid()) map.fitBounds(bounds);
+        const suburbPoints = filtered
+  .filter(d => d.Lat && d.Lon)
+  .map(d => [d.Lat, d.Lon]);
+
+const bounds = L.latLngBounds(suburbPoints);
+
+// Also include municipality marker in bounds
+if (municipalityCenters[value]) {
+  suburbPoints.push(municipalityCenters[value]);
+}
+
+if (bounds.isValid()) {
+  map.fitBounds(L.latLngBounds(suburbPoints), { padding: [30, 30] });
+}
+
       });
     }
 
