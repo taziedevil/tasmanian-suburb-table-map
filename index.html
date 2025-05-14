@@ -292,7 +292,7 @@ mapTab.addEventListener('click', () => {
             ${d.Rental ? `<a href="${d.Rental}" target="_blank">🔑 Rental</a>` : ''}
           `);
           marker.bindTooltip(d.Suburb, { permanent: true, direction: 'top', offset: [0, -20], className: 'suburb-label' });
-      clusterGroup.addLayer(marker);
+      // clusterGroup.addLayer(marker); // moved inside initMap only
       markers.push(marker);
         }
             });
