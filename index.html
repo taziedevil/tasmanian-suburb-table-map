@@ -7,6 +7,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
   <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.css" />
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.Default.css" />
   <style>
     body {
       font-family: 'Open Sans', sans-serif;
@@ -150,6 +152,7 @@
       </div>
 
   <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+<script src="https://unpkg.com/leaflet.markercluster/dist/leaflet.markercluster.js"></script>
   <script>
     const tableTab = document.getElementById('tableTab');
 const mapTab = document.getElementById('mapTab');
@@ -210,7 +213,9 @@ mapTab.addEventListener('click', () => {
         initMap(filtered);
         const bounds = L.latLngBounds(filtered.filter(d => d.Lat && d.Lon).map(d => [d.Lat, d.Lon]));
         if (bounds.isValid()) map.fitBounds(bounds);
-      });
+            });
+      window.markerCluster = clusterGroup;
+      map.addLayer(clusterGroup);
     }
 
     function setupSearch(data) {
@@ -222,7 +227,9 @@ mapTab.addEventListener('click', () => {
         initMap(filtered);
         const bounds = L.latLngBounds(filtered.filter(d => d.Lat && d.Lon).map(d => [d.Lat, d.Lon]));
         if (bounds.isValid()) map.fitBounds(bounds);
-      });
+            });
+      window.markerCluster = clusterGroup;
+      map.addLayer(clusterGroup);
     }
 
     function displayResults(data) {
@@ -231,6 +238,7 @@ mapTab.addEventListener('click', () => {
       results.innerHTML = '';
       count.textContent = `Showing ${data.length} suburb${data.length !== 1 ? 's' : ''}`;
 
+      const clusterGroup = L.markerClusterGroup();
       data.forEach(d => {
         const card = document.createElement('div');
         const id = 'suburb-' + d.Suburb.toLowerCase().replace(/\s+/g, '-');
@@ -245,7 +253,9 @@ mapTab.addEventListener('click', () => {
             ${d.Rental ? `<a href="${d.Rental}" target="_blank"><span class="icon">🔑</span> Rental Report</a>` : ''}
           </div>`;
         results.appendChild(card);
-      });
+            });
+      window.markerCluster = clusterGroup;
+      map.addLayer(clusterGroup);
     }
 
     let map, markers = [];
@@ -260,9 +270,10 @@ mapTab.addEventListener('click', () => {
 }).addTo(map);
       }
 
-      markers.forEach(m => map.removeLayer(m));
+      if (window.markerCluster) map.removeLayer(window.markerCluster);
       markers = [];
 
+      const clusterGroup = L.markerClusterGroup();
       data.forEach(d => {
         if (d.Lat != null && d.Lon != null) { console.log("Marker for", d.Suburb, d.Lat, d.Lon);
           const marker = L.circleMarker([d.Lat, d.Lon], {
@@ -278,9 +289,12 @@ mapTab.addEventListener('click', () => {
             ${d.Rental ? `<a href="${d.Rental}" target="_blank">🔑 Rental</a>` : ''}
           `);
           marker.bindTooltip(d.Suburb, { permanent: true, direction: 'top', offset: [0, -20], className: 'suburb-label' });
+      clusterGroup.addLayer(marker);
       markers.push(marker);
         }
-      });
+            });
+      window.markerCluster = clusterGroup;
+      map.addLayer(clusterGroup);
     }
   
     document.getElementById('toggleMore').addEventListener('click', () => {
