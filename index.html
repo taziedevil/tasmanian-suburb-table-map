@@ -39,7 +39,6 @@
       border-radius: 5px;
     }
     .results {
-  transition: max-height 0.6s ease;
   
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -115,15 +114,6 @@
       border-radius: 4px;
       color: #2E6B52;
     }
-    
-    .results.collapsed {
-      max-height: 450px;
-      overflow: hidden;
-    }
-    .results.expanded {
-      max-height: none;
-      overflow: visible;
-    }
     </style>
 </head>
 <body>
@@ -152,52 +142,30 @@
     
     <div id="tableView"><div id="suburbCount"></div>
     
-    <div id="results" class="results collapsed" style="max-height: 450px; overflow: hidden;"></div>
+    <div id="results" class="results" style="max-height: 450px; overflow: hidden;"></div>
     <div style="text-align:center; margin: 20px 0;">
       <button id="toggleMore" style="padding: 10px 20px; font-size: 1rem; background-color: #2E6B52; color: white; border: none; border-radius: 5px; cursor: pointer;">
         Show More ▾
       </button>
     </div>
     
-    </div></div></div><div id="mapView" style="display:none;"><div id="map"></div>
+    </div><div id="mapView" style="display:none;"><div id="map"></div>
   </div>
 
   <script src="https://unpkg.com/leaflet/dist/leaflet.js">
     document.getElementById('toggleMore').addEventListener('click', () => {
-      const container = document.getElementById('resultsContainer');
       const results = document.getElementById('results');
       const button = document.getElementById('toggleMore');
-      const collapsed = container.style.maxHeight !== 'none';
-      container.style.maxHeight = collapsed ? 'none' : '600px';
-      container.style.overflowY = collapsed ? 'visible' : 'hidden';
-      button.textContent = collapsed ? 'Show Less ▴' : 'Show More ▾';
-    });
-      const results = document.getElementById('results');
-      const button = document.getElementById('toggleMore');
-      const computedStyle = window.getComputedStyle(results).maxHeight;
-    const expanded = computedStyle === 'none' || computedStyle === 'nonepx';
-    console.log('Current max-height:', computedStyle, '| Expanded:', !expanded);
+      const expanded = results.style.maxHeight === 'none';
       results.style.maxHeight = expanded ? '700px' : 'none';
       button.textContent = expanded ? 'Show More ▾' : 'Show Less ▴';
     });
     
     document.getElementById('toggleMore').addEventListener('click', () => {
-      const container = document.getElementById('resultsContainer');
       const results = document.getElementById('results');
       const button = document.getElementById('toggleMore');
-      const collapsed = container.style.maxHeight !== 'none';
-      container.style.maxHeight = collapsed ? 'none' : '600px';
-      container.style.overflowY = collapsed ? 'visible' : 'hidden';
-      button.textContent = collapsed ? 'Show Less ▴' : 'Show More ▾';
-    });
-      const results = document.getElementById('results');
-      const button = document.getElementById('toggleMore');
-      const computedStyle = window.getComputedStyle(results).maxHeight;
-    const expanded = computedStyle === 'none' || computedStyle === 'nonepx';
-    console.log('Current max-height:', computedStyle, '| Expanded:', !expanded);
-      
-    results.style.maxHeight = expanded ? '450px' : results.scrollHeight + 'px';
-    
+      const expanded = results.style.maxHeight === 'none';
+      results.style.maxHeight = expanded ? '450px' : 'none';
       button.textContent = expanded ? 'Show More ▾' : 'Show Less ▴';
     });
 
@@ -333,40 +301,18 @@
     }
   
     document.getElementById('toggleMore').addEventListener('click', () => {
-      const container = document.getElementById('resultsContainer');
       const results = document.getElementById('results');
       const button = document.getElementById('toggleMore');
-      const collapsed = container.style.maxHeight !== 'none';
-      container.style.maxHeight = collapsed ? 'none' : '600px';
-      container.style.overflowY = collapsed ? 'visible' : 'hidden';
-      button.textContent = collapsed ? 'Show Less ▴' : 'Show More ▾';
-    });
-      const results = document.getElementById('results');
-      const button = document.getElementById('toggleMore');
-      const computedStyle = window.getComputedStyle(results).maxHeight;
-    const expanded = computedStyle === 'none' || computedStyle === 'nonepx';
-    console.log('Current max-height:', computedStyle, '| Expanded:', !expanded);
+      const expanded = results.style.maxHeight === 'none';
       results.style.maxHeight = expanded ? '700px' : 'none';
       button.textContent = expanded ? 'Show More ▾' : 'Show Less ▴';
     });
     
     document.getElementById('toggleMore').addEventListener('click', () => {
-      const container = document.getElementById('resultsContainer');
       const results = document.getElementById('results');
       const button = document.getElementById('toggleMore');
-      const collapsed = container.style.maxHeight !== 'none';
-      container.style.maxHeight = collapsed ? 'none' : '600px';
-      container.style.overflowY = collapsed ? 'visible' : 'hidden';
-      button.textContent = collapsed ? 'Show Less ▴' : 'Show More ▾';
-    });
-      const results = document.getElementById('results');
-      const button = document.getElementById('toggleMore');
-      const computedStyle = window.getComputedStyle(results).maxHeight;
-    const expanded = computedStyle === 'none' || computedStyle === 'nonepx';
-    console.log('Current max-height:', computedStyle, '| Expanded:', !expanded);
-      
-    results.style.maxHeight = expanded ? '450px' : results.scrollHeight + 'px';
-    
+      const expanded = results.style.maxHeight === 'none';
+      results.style.maxHeight = expanded ? '450px' : 'none';
       button.textContent = expanded ? 'Show More ▾' : 'Show Less ▴';
     });
 
