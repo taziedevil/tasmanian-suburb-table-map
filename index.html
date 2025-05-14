@@ -243,16 +243,30 @@ if (municipalityCenters[value]) {
     direction: 'top',
     offset: [0, -25],
     className: 'municipality-label'
-    const base = value.toLowerCase().replace(/\s+/g, '-');
-municipalityMarker.bindPopup(`
-  <strong>${value}</strong><br><br>
-  <a href="web-munic-${base}.pdf" target="_blank">🏠 Houses</a><br>
-  <a href="web-munic-${base}-other.pdf" target="_blank">🏢 Other Dwellings</a><br>
-  <a href="web-munic-${base}-land.pdf" target="_blank">🌱 Land</a><br>
-  <a href="web-munic-${base}-rental.pdf" target="_blank">🔑 Rental</a>
-`);
-
   });
+  // Right after bindTooltip for municipalityMarker
+const base = value.toLowerCase().replace(/\s+/g, '-');
+const reportTypes = [
+  { key: "", label: "🏠 Houses" },
+  { key: "-other", label: "🏢 Other Dwellings" },
+  { key: "-land", label: "🌱 Land" },
+  { key: "-rental", label: "🔑 Rental" }
+];
+
+let popupContent = `<strong>${value}</strong><br><br>`;
+let linkChecks = reportTypes.map(type => {
+  const file = `web-munic-${base}${type.key}.pdf`;
+  return fetch(file, { method: 'HEAD' }).then(res => {
+    if (res.ok) {
+      popupContent += `<a href="${file}" target="_blank">${type.label}</a><br>`;
+    }
+  });
+});
+
+Promise.all(linkChecks).then(() => {
+  municipalityMarker.bindPopup(popupContent).openPopup();
+});
+
 }
 
         const filtered = value ? suburbData.filter(d => d.Municipality === value) : suburbData;
