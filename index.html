@@ -295,6 +295,14 @@ if (window.markerCluster) {
         className: 'suburb-label'
       });
 
+      marker.bindPopup(`
+  <strong>${d.Suburb}</strong><br>${d.Municipality}<br>
+  ${d.Houses ? `<a href="${d.Houses}" target="_blank">🏠 Houses Report</a><br>` : ''}
+  ${d.Other ? `<a href="${d.Other}" target="_blank">🏢 Other Dwellings</a><br>` : ''}
+  ${d.Land ? `<a href="${d.Land}" target="_blank">🌱 Land</a><br>` : ''}
+  ${d.Rental ? `<a href="${d.Rental}" target="_blank">🔑 Rental</a>` : ''}
+`);
+
       clusterGroup.addLayer(marker);
       markers.push(marker);
     }
