@@ -402,7 +402,7 @@ mapTab.addEventListener('click', () => {
       results.innerHTML = '';
       count.textContent = `Showing ${data.length} suburb${data.length !== 1 ? 's' : ''}`;
 
-      const // removed clusterGroup usage outside initMap = L.markerClusterGroup();
+      
       data.forEach(d => {
         const card = document.createElement('div');
         const id = 'suburb-' + d.Suburb.toLowerCase().replace(/\s+/g, '-');
@@ -428,7 +428,7 @@ mapTab.addEventListener('click', () => {
       if (window.markerCluster) map.removeLayer(window.markerCluster);
       markers = [];
 
-      const // removed clusterGroup usage outside initMap = L.markerClusterGroup();
+      
       data.forEach(d => {
         if (d.Lat != null && d.Lon != null) { console.log("Marker for", d.Suburb, d.Lat, d.Lon);
           const marker = L.circleMarker([d.Lat, d.Lon], {
@@ -456,9 +456,9 @@ mapTab.addEventListener('click', () => {
 </body>
 </html>
             });
-      window.markerCluster = // removed clusterGroup usage outside initMap;
-      window.markerCluster = // removed clusterGroup usage outside initMap;
-      map.addLayer(// removed clusterGroup usage outside initMap);
+      
+      
+      
     }
 
     function displayResults(data) {
@@ -467,7 +467,7 @@ mapTab.addEventListener('click', () => {
       results.innerHTML = '';
       count.textContent = `Showing ${data.length} suburb${data.length !== 1 ? 's' : ''}`;
 
-      const // removed clusterGroup usage outside initMap = L.markerClusterGroup();
+      
       data.forEach(d => {
         const card = document.createElement('div');
         const id = 'suburb-' + d.Suburb.toLowerCase().replace(/\s+/g, '-');
@@ -483,9 +483,9 @@ mapTab.addEventListener('click', () => {
           </div>`;
         results.appendChild(card);
             });
-      window.markerCluster = // removed clusterGroup usage outside initMap;
-      window.markerCluster = // removed clusterGroup usage outside initMap;
-      map.addLayer(// removed clusterGroup usage outside initMap);
+      
+      
+      
     }
 
     let map, markers = [];
@@ -503,7 +503,7 @@ mapTab.addEventListener('click', () => {
       if (window.markerCluster) map.removeLayer(window.markerCluster);
       markers = [];
 
-      const // removed clusterGroup usage outside initMap = L.markerClusterGroup();
+      
       data.forEach(d => {
         if (d.Lat != null && d.Lon != null) { console.log("Marker for", d.Suburb, d.Lat, d.Lon);
           const marker = L.circleMarker([d.Lat, d.Lon], {
@@ -523,9 +523,9 @@ mapTab.addEventListener('click', () => {
       markers.push(marker);
         }
             });
-      window.markerCluster = // removed clusterGroup usage outside initMap;
-      window.markerCluster = // removed clusterGroup usage outside initMap;
-      map.addLayer(// removed clusterGroup usage outside initMap);
+      
+      
+      
     }
   
     document.getElementById('toggleMore').addEventListener('click', () => {
