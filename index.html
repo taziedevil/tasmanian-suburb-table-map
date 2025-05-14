@@ -126,8 +126,14 @@
       </select>
     </div>
   </div>
-
+  
+<div style="text-align:center; margin: 20px 0;">
+  <button id="tableTab" class="tab active" style="padding: 10px 20px; border: none; border-radius: 5px 0 0 5px; background: #2E6B52; color: white;">Table View</button>
+  <button id="mapTab" class="tab" style="padding: 10px 20px; border: none; border-radius: 0 5px 5px 0; background: #ddd; color: #333;">Map View</button>
+</div>
+  
   <div class="container">
+    <div id="tableView">
     <div id="suburbCount"></div>
     
     <div id="results" class="results" style="max-height: 700px; overflow: hidden;"></div>
@@ -136,12 +142,45 @@
         Show More ▾
       </button>
     </div>
-    
+    </div>
+
+    <div id="mapView" style="display: none;">
     <div id="map"></div>
   </div>
+      </div>
 
   <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
   <script>
+    const tableTab = document.getElementById('tableTab');
+const mapTab = document.getElementById('mapTab');
+const tableView = document.getElementById('tableView');
+const mapView = document.getElementById('mapView');
+
+tableTab.addEventListener('click', () => {
+  tableTab.classList.add('active');
+  mapTab.classList.remove('active');
+  tableView.style.display = '';
+  mapView.style.display = 'none';
+  tableTab.style.background = '#2E6B52';
+  tableTab.style.color = 'white';
+  mapTab.style.background = '#ddd';
+  mapTab.style.color = '#333';
+});
+
+mapTab.addEventListener('click', () => {
+  tableTab.classList.remove('active');
+  mapTab.classList.add('active');
+  tableView.style.display = 'none';
+  mapView.style.display = '';
+  mapTab.style.background = '#2E6B52';
+  mapTab.style.color = 'white';
+  tableTab.style.background = '#ddd';
+  tableTab.style.color = '#333';
+  if (typeof map !== 'undefined') {
+    setTimeout(() => map.invalidateSize(), 200);
+  }
+});
+    
     let suburbData = [];
 
     fetch('suburb_reports_data.json')
