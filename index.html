@@ -153,7 +153,6 @@
 
   <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
 <script src="https://unpkg.com/leaflet.markercluster/dist/leaflet.markercluster.js"></script>
-  <script>
     const tableTab = document.getElementById('tableTab');
 const mapTab = document.getElementById('mapTab');
 const tableView = document.getElementById('tableView');
@@ -209,17 +208,6 @@ mapTab.addEventListener('click', () => {
       select.addEventListener('change', () => {
         const value = select.value;
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <title>REIT Suburb Report Finder</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
-  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap" rel="stylesheet" />
-<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.css" />
-<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.Default.css" />
-  <style>
     body {
       font-family: 'Open Sans', sans-serif;
       margin: 0;
@@ -326,44 +314,14 @@ mapTab.addEventListener('click', () => {
       border-radius: 4px;
       color: #2E6B52;
     }
-    </style>
-</head>
-<body>
-  <div class="header">
-    <div class="container">
-      <h2>Tasmanian Suburb Reports</h2>
-      <input type="text" id="suburbSearch" placeholder="Search by suburb..." />
-      <select id="municipalitySelect">
-        <option value="">-- Select a municipality --</option>
-      </select>
-    </div>
-  </div>
   
-<div style="text-align:center; margin: 20px 0;">
-  <button id="tableTab" class="tab active" style="padding: 10px 20px; border: none; border-radius: 5px 0 0 5px; background: #2E6B52; color: white;">Table View</button>
-  <button id="mapTab" class="tab" style="padding: 10px 20px; border: none; border-radius: 0 5px 5px 0; background: #ddd; color: #333;">Map View</button>
-</div>
   
-  <div class="container">
-    <div id="tableView">
-    <div id="suburbCount"></div>
     
-    <div id="results" class="results" style="max-height: 700px; overflow: hidden;"></div>
-    <div style="text-align:center; margin: 20px 0;">
-      <button id="toggleMore" style="padding: 10px 20px; font-size: 1rem; background-color: #2E6B52; color: white; border: none; border-radius: 5px; cursor: pointer;">
         Show More ▾
-      </button>
-    </div>
-    </div>
 
-    <div id="mapView" style="display: none;">
-    <div id="map"></div>
-  </div>
-      </div>
 
   <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
 <script src="https://unpkg.com/leaflet.markercluster/dist/leaflet.markercluster.js"></script>
-  <script>
     const tableTab = document.getElementById('tableTab');
 const mapTab = document.getElementById('mapTab');
 const tableView = document.getElementById('tableView');
@@ -451,13 +409,6 @@ mapTab.addEventListener('click', () => {
         card.className = 'card';
         card.id = id;
         card.innerHTML = `
-          <div class="card-header" id="suburb-${d.Suburb.toLowerCase().replace(/\s+/g, "-")}">${d.Suburb} (${d.Municipality})</div>
-          <div class="card-body">
-            ${d.Houses ? `<a href="${d.Houses}" target="_blank"><span class="icon">🏠</span> Houses Report</a>` : ''}
-            ${d.Other ? `<a href="${d.Other}" target="_blank"><span class="icon">🏢</span> Other Dwellings Report</a>` : ''}
-            ${d.Land ? `<a href="${d.Land}" target="_blank"><span class="icon">🌱</span> Land Report</a>` : ''}
-            ${d.Rental ? `<a href="${d.Rental}" target="_blank"><span class="icon">🔑</span> Rental Report</a>` : ''}
-          </div>`;
         results.appendChild(card);
             });
     }
@@ -486,11 +437,6 @@ mapTab.addEventListener('click', () => {
             fillColor: '#2E6B52',
             fillOpacity: 0.8
           }).addTo(map);
-          marker.bindPopup(`<strong>${d.Suburb}</strong><br>${d.Municipality}<br>
-            ${d.Houses ? `<a href="${d.Houses}" target="_blank">🏠 Houses</a><br>` : ''}
-            ${d.Other ? `<a href="${d.Other}" target="_blank">🏢 Other Dwellings</a><br>` : ''}
-            ${d.Land ? `<a href="${d.Land}" target="_blank">🌱 Land</a><br>` : ''}
-            ${d.Rental ? `<a href="${d.Rental}" target="_blank">🔑 Rental</a>` : ''}
           `);
           marker.bindTooltip(d.Suburb, { permanent: true, direction: 'top', offset: [0, -20], className: 'suburb-label' });
       // // removed clusterGroup usage outside initMap.addLayer(marker); removed to prevent scope error
