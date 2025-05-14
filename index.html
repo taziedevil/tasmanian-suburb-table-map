@@ -243,6 +243,15 @@ if (municipalityCenters[value]) {
     direction: 'top',
     offset: [0, -25],
     className: 'municipality-label'
+    const base = value.toLowerCase().replace(/\s+/g, '-');
+municipalityMarker.bindPopup(`
+  <strong>${value}</strong><br><br>
+  <a href="web-munic-${base}.pdf" target="_blank">🏠 Houses</a><br>
+  <a href="web-munic-${base}-other.pdf" target="_blank">🏢 Other Dwellings</a><br>
+  <a href="web-munic-${base}-land.pdf" target="_blank">🌱 Land</a><br>
+  <a href="web-munic-${base}-rental.pdf" target="_blank">🔑 Rental</a>
+`);
+
   });
 }
 
