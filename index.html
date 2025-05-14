@@ -156,7 +156,7 @@
     document.getElementById('toggleMore').addEventListener('click', () => {
       const results = document.getElementById('results');
       const button = document.getElementById('toggleMore');
-      const expanded = results.style.maxHeight === 'none';
+      const expanded = results.style.maxHeight === 'none' || results.style.maxHeight === '';
       results.style.maxHeight = expanded ? '700px' : 'none';
       button.textContent = expanded ? 'Show More ▾' : 'Show Less ▴';
     });
@@ -164,7 +164,7 @@
     document.getElementById('toggleMore').addEventListener('click', () => {
       const results = document.getElementById('results');
       const button = document.getElementById('toggleMore');
-      const expanded = results.style.maxHeight === 'none';
+      const expanded = results.style.maxHeight === 'none' || results.style.maxHeight === '';
       results.style.maxHeight = expanded ? '450px' : 'none';
       button.textContent = expanded ? 'Show More ▾' : 'Show Less ▴';
     });
@@ -303,7 +303,7 @@
     document.getElementById('toggleMore').addEventListener('click', () => {
       const results = document.getElementById('results');
       const button = document.getElementById('toggleMore');
-      const expanded = results.style.maxHeight === 'none';
+      const expanded = results.style.maxHeight === 'none' || results.style.maxHeight === '';
       results.style.maxHeight = expanded ? '700px' : 'none';
       button.textContent = expanded ? 'Show More ▾' : 'Show Less ▴';
     });
@@ -311,7 +311,7 @@
     document.getElementById('toggleMore').addEventListener('click', () => {
       const results = document.getElementById('results');
       const button = document.getElementById('toggleMore');
-      const expanded = results.style.maxHeight === 'none';
+      const expanded = results.style.maxHeight === 'none' || results.style.maxHeight === '';
       results.style.maxHeight = expanded ? '450px' : 'none';
       button.textContent = expanded ? 'Show More ▾' : 'Show Less ▴';
     });
