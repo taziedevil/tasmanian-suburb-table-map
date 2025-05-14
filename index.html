@@ -115,6 +115,15 @@
       border-radius: 4px;
       color: #2E6B52;
     }
+    
+    .results.collapsed {
+      max-height: 450px;
+      overflow: hidden;
+    }
+    .results.expanded {
+      max-height: none;
+      overflow: visible;
+    }
     </style>
 </head>
 <body>
@@ -133,10 +142,17 @@
       </select>
     </div>
   </div>
+
+  
+    <div class="container">
+      <div style="text-align:center; margin-bottom: 1em;">
+        <button id="tableTab" class="tab active" style="padding: 10px 20px; border: none; border-radius: 5px 0 0 5px; background: #2E6B52; color: white;">Table View</button>
+        <button id="mapTab" class="tab" style="padding: 10px 20px; border: none; border-radius: 0 5px 5px 0; background: #ddd; color: #333;">Map View</button>
+      </div>
     
     <div id="tableView"><div id="suburbCount"></div>
     
-    <div id="results" class="results" style="max-height: 450px; overflow: hidden;" style="max-height: 450px; overflow: hidden;"></div>
+    <div id="results" class="results collapsed" style="max-height: 450px; overflow: hidden;"></div>
     <div style="text-align:center; margin: 20px 0;">
       <button id="toggleMore" style="padding: 10px 20px; font-size: 1rem; background-color: #2E6B52; color: white; border: none; border-radius: 5px; cursor: pointer;">
         Show More ▾
