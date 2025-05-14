@@ -272,24 +272,31 @@ mapTab.addEventListener('click', () => {
       markers.forEach(m => map.removeLayer(m));
       markers = [];
 
-      data.forEach(d => {
-        if (d.Lat != null && d.Lon != null) { console.log("Marker for", d.Suburb, d.Lat, d.Lon);
-          const marker = L.circleMarker([d.Lat, d.Lon], {
-            radius: 7,
-            color: '#2E6B52',
-            fillColor: '#2E6B52',
-            fillOpacity: 0.8
-          }).addTo(map);
-          marker.bindPopup(`<strong>${d.Suburb}</strong><br>${d.Municipality}<br>
-            ${d.Houses ? `<a href="${d.Houses}" target="_blank">🏠 Houses</a><br>` : ''}
-            ${d.Other ? `<a href="${d.Other}" target="_blank">🏢 Other Dwellings</a><br>` : ''}
-            ${d.Land ? `<a href="${d.Land}" target="_blank">🌱 Land</a><br>` : ''}
-            ${d.Rental ? `<a href="${d.Rental}" target="_blank">🔑 Rental</a>` : ''}
-          `);
-          marker.bindTooltip(d.Suburb, { permanent: true, direction: 'top', offset: [0, -20], className: 'suburb-label' });
-      markers.push(marker);
-        }
-      });
+     const clusterGroup = L.markerClusterGroup({ disableClusteringAtZoom: 12 });
+
+data.forEach(d => {
+  if (d.Lat != null && d.Lon != null) {
+    const marker = L.circleMarker([d.Lat, d.Lon], {
+      radius: 7,
+      color: '#2E6B52',
+      fillColor: '#2E6B52',
+      fillOpacity: 0.8
+    });
+
+    marker.bindTooltip(d.Suburb, {
+      permanent: true,
+      direction: 'top',
+      offset: [0, -20],
+      className: 'suburb-label'
+    });
+
+    clusterGroup.addLayer(marker);
+    markers.push(marker);
+  }
+});
+
+map.addLayer(clusterGroup);
+
     }
   
     document.getElementById('toggleMore').addEventListener('click', () => {
