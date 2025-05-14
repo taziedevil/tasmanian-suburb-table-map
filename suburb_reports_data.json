@@ -1,0 +1,1522 @@
+[
+  {
+    "Municipality": "Burnie",
+    "Suburb": "Acton",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-acton.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-acton-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-acton-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-acton-rental.pdf"
+  },
+  {
+    "Municipality": "Clarence",
+    "Suburb": "Acton Park",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-acton-park.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-acton-park-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-acton-park-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-acton-park-rental.pdf"
+  },
+  {
+    "Municipality": "Devonport",
+    "Suburb": "Ambleside",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-ambleside.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-ambleside-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-ambleside-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-ambleside-rental.pdf"
+  },
+  {
+    "Municipality": "Glenorchy",
+    "Suburb": "Austins Ferry",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-austins-ferry.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-austins-ferry-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-austins-ferry-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-austins-ferry-rental.pdf"
+  },
+  {
+    "Municipality": "Southern Midlands",
+    "Suburb": "Bagdad",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-bagdad.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-bagdad-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-bagdad-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-bagdad-rental.pdf"
+  },
+  {
+    "Municipality": "Hobart",
+    "Suburb": "Battery Point",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-battery-point.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-battery-point-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-battery-point-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-battery-point-rental.pdf"
+  },
+  {
+    "Municipality": "West Tamar",
+    "Suburb": "Beaconsfield",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-beaconsfield.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-beaconsfield-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-beaconsfield-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-beaconsfield-rental.pdf"
+  },
+  {
+    "Municipality": "West Tamar",
+    "Suburb": "Beauty Point",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-beauty-point.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-beauty-point-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-beauty-point-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-beauty-point-rental.pdf"
+  },
+  {
+    "Municipality": "Clarence",
+    "Suburb": "Bellerive",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-bellerive.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-bellerive-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-bellerive-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-bellerive-rental.pdf"
+  },
+  {
+    "Municipality": "Glenorchy",
+    "Suburb": "Berriedale",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-berriedale.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-berriedale-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-berriedale-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-berriedale-rental.pdf"
+  },
+  {
+    "Municipality": "Glamorgan/Spring Bay",
+    "Suburb": "Bicheno",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-bicheno.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-bicheno-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-bicheno-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-bicheno-rental.pdf"
+  },
+  {
+    "Municipality": "Break O'Day",
+    "Suburb": "Binalong Bay",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-binalong-bay.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-binalong-bay-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-binalong-bay-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-binalong-bay-rental.pdf"
+  },
+  {
+    "Municipality": "Kingborough",
+    "Suburb": "Blackmans Bay",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-blackmans-bay.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-blackmans-bay-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-blackmans-bay-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-blackmans-bay-rental.pdf"
+  },
+  {
+    "Municipality": "Meander Valley",
+    "Suburb": "Blackstone Heights",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-blackstone-heights.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-blackstone-heights-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-blackstone-heights-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-blackstone-heights-rental.pdf"
+  },
+  {
+    "Municipality": "Dorset",
+    "Suburb": "Branxholm",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-branxholm.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-branxholm-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-branxholm-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-branxholm-rental.pdf"
+  },
+  {
+    "Municipality": "Brighton",
+    "Suburb": "Bridgewater",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-bridgewater.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-bridgewater-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-bridgewater-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-bridgewater-rental.pdf"
+  },
+  {
+    "Municipality": "Dorset",
+    "Suburb": "Bridport",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-bridport.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-bridport-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-bridport-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-bridport-rental.pdf"
+  },
+  {
+    "Municipality": "Brighton",
+    "Suburb": "Brighton",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-brighton.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-brighton-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-brighton-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-brighton-rental.pdf"
+  },
+  {
+    "Municipality": "Burnie",
+    "Suburb": "Brooklyn",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-brooklyn.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-brooklyn-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-brooklyn-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-brooklyn-rental.pdf"
+  },
+  {
+    "Municipality": "Burnie",
+    "Suburb": "Burnie",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-burnie.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-burnie-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-burnie-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-burnie-rental.pdf"
+  },
+  {
+    "Municipality": "Clarence",
+    "Suburb": "Cambridge",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-cambridge.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-cambridge-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-cambridge-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-cambridge-rental.pdf"
+  },
+  {
+    "Municipality": "Southern Midlands",
+    "Suburb": "Campania",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-campania.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-campania-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-campania-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-campania-rental.pdf"
+  },
+  {
+    "Municipality": "Northern Midlands",
+    "Suburb": "Campbell Town",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-campbell-town.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-campbell-town-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-campbell-town-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-campbell-town-rental.pdf"
+  },
+  {
+    "Municipality": "Sorell",
+    "Suburb": "Carlton",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-carlton.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-carlton-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-carlton-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-carlton-rental.pdf"
+  },
+  {
+    "Municipality": "Glenorchy",
+    "Suburb": "Chigwell",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-chigwell.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-chigwell-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-chigwell-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-chigwell-rental.pdf"
+  },
+  {
+    "Municipality": "Glenorchy",
+    "Suburb": "Claremont",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-claremont.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-claremont-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-claremont-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-claremont-rental.pdf"
+  },
+  {
+    "Municipality": "Clarence",
+    "Suburb": "Clarendon Vale",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-clarendon-vale.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-clarendon-vale-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-clarendon-vale-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-clarendon-vale-rental.pdf"
+  },
+  {
+    "Municipality": "Clarence",
+    "Suburb": "Clifton Beach",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-clifton-beach.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-clifton-beach-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-clifton-beach-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-clifton-beach-rental.pdf"
+  },
+  {
+    "Municipality": "Glenorchy",
+    "Suburb": "Collinsvale",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-collinsvale.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-collinsvale-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-collinsvale-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-collinsvale-rental.pdf"
+  },
+  {
+    "Municipality": "Burnie",
+    "Suburb": "Cooee",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-cooee.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-cooee-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-cooee-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-cooee-rental.pdf"
+  },
+  {
+    "Municipality": "Huon Valley",
+    "Suburb": "Cradoc",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-cradoc.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-cradoc-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-cradoc-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-cradoc-rental.pdf"
+  },
+  {
+    "Municipality": "Clarence",
+    "Suburb": "Cremorne",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-cremorne.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-cremorne-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-cremorne-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-cremorne-rental.pdf"
+  },
+  {
+    "Municipality": "Northern Midlands",
+    "Suburb": "Cressy",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-cressy.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-cressy-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-cressy-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-cressy-rental.pdf"
+  },
+  {
+    "Municipality": "Huon Valley",
+    "Suburb": "Cygnet",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-cygnet.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-cygnet-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-cygnet-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-cygnet-rental.pdf"
+  },
+  {
+    "Municipality": "Meander Valley",
+    "Suburb": "Deloraine",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-deloraine.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-deloraine-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-deloraine-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-deloraine-rental.pdf"
+  },
+  {
+    "Municipality": "Dorset",
+    "Suburb": "Derby",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-derby.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-derby-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-derby-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-derby-rental.pdf"
+  },
+  {
+    "Municipality": "Glenorchy",
+    "Suburb": "Derwent Park",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-derwent-park.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-derwent-park-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-derwent-park-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-derwent-park-rental.pdf"
+  },
+  {
+    "Municipality": "Devonport",
+    "Suburb": "Devonport",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-devonport.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-devonport-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-devonport-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-devonport-rental.pdf"
+  },
+  {
+    "Municipality": "Launceston",
+    "Suburb": "Dilston",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-dilston.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-dilston-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-dilston-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-dilston-rental.pdf"
+  },
+  {
+    "Municipality": "Sorell",
+    "Suburb": "Dodges Ferry",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-dodges-ferry.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-dodges-ferry-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-dodges-ferry-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-dodges-ferry-rental.pdf"
+  },
+  {
+    "Municipality": "Huon Valley",
+    "Suburb": "Dover",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-dover.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-dover-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-dover-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-dover-rental.pdf"
+  },
+  {
+    "Municipality": "Brighton",
+    "Suburb": "Dromedary",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-dromedary.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-dromedary-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-dromedary-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-dromedary-rental.pdf"
+  },
+  {
+    "Municipality": "Hobart",
+    "Suburb": "Dynnyrne",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-dynnyrne.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-dynnyrne-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-dynnyrne-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-dynnyrne-rental.pdf"
+  },
+  {
+    "Municipality": "Tasman",
+    "Suburb": "Eaglehawk Neck",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-eaglehawk-neck.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-eaglehawk-neck-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-eaglehawk-neck-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-eaglehawk-neck-rental.pdf"
+  },
+  {
+    "Municipality": "Devonport",
+    "Suburb": "East Devonport",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-east-devonport.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-east-devonport-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-east-devonport-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-east-devonport-rental.pdf"
+  },
+  {
+    "Municipality": "Launceston",
+    "Suburb": "East Launceston",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-east-launceston.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-east-launceston-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-east-launceston-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-east-launceston-rental.pdf"
+  },
+  {
+    "Municipality": "Northern Midlands",
+    "Suburb": "Evandale",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-evandale.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-evandale-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-evandale-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-evandale-rental.pdf"
+  },
+  {
+    "Municipality": "West Tamar",
+    "Suburb": "Exeter",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-exeter.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-exeter-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-exeter-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-exeter-rental.pdf"
+  },
+  {
+    "Municipality": "Hobart",
+    "Suburb": "Fern Tree",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-fern-tree.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-fern-tree-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-fern-tree-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-fern-tree-rental.pdf"
+  },
+  {
+    "Municipality": "Sorell",
+    "Suburb": "Forcett",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-forcett.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-forcett-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-forcett-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-forcett-rental.pdf"
+  },
+  {
+    "Municipality": "Huon Valley",
+    "Suburb": "Franklin",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-franklin.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-franklin-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-franklin-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-franklin-rental.pdf"
+  },
+  {
+    "Municipality": "Brighton",
+    "Suburb": "Gagebrook",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-gagebrook.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-gagebrook-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-gagebrook-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-gagebrook-rental.pdf"
+  },
+  {
+    "Municipality": "Huon Valley",
+    "Suburb": "Geeveston",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-geeveston.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-geeveston-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-geeveston-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-geeveston-rental.pdf"
+  },
+  {
+    "Municipality": "Clarence",
+    "Suburb": "Geilston Bay",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-geilston-bay.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-geilston-bay-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-geilston-bay-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-geilston-bay-rental.pdf"
+  },
+  {
+    "Municipality": "George Town",
+    "Suburb": "George Town",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-george-town.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-george-town-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-george-town-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-george-town-rental.pdf"
+  },
+  {
+    "Municipality": "Hobart",
+    "Suburb": "Glebe",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-glebe.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-glebe-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-glebe-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-glebe-rental.pdf"
+  },
+  {
+    "Municipality": "Huon Valley",
+    "Suburb": "Glen Huon",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-glen-huon.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-glen-huon-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-glen-huon-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-glen-huon-rental.pdf"
+  },
+  {
+    "Municipality": "Glenorchy",
+    "Suburb": "Glenorchy",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-glenorchy.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-glenorchy-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-glenorchy-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-glenorchy-rental.pdf"
+  },
+  {
+    "Municipality": "Glenorchy",
+    "Suburb": "Goodwood",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-goodwood.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-goodwood-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-goodwood-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-goodwood-rental.pdf"
+  },
+  {
+    "Municipality": "Glenorchy",
+    "Suburb": "Granton",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-granton.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-granton-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-granton-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-granton-rental.pdf"
+  },
+  {
+    "Municipality": "West Tamar",
+    "Suburb": "Gravelly Beach",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-gravelly-beach.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-gravelly-beach-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-gravelly-beach-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-gravelly-beach-rental.pdf"
+  },
+  {
+    "Municipality": "West Tamar",
+    "Suburb": "Greens Beach",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-greens-beach.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-greens-beach-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-greens-beach-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-greens-beach-rental.pdf"
+  },
+  {
+    "Municipality": "West Tamar",
+    "Suburb": "Grindelwald",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-grindelwald.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-grindelwald-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-grindelwald-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-grindelwald-rental.pdf"
+  },
+  {
+    "Municipality": "Huon Valley",
+    "Suburb": "Grove",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-grove.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-grove-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-grove-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-grove-rental.pdf"
+  },
+  {
+    "Municipality": "Meander Valley",
+    "Suburb": "Hadspen",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-hadspen.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-hadspen-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-hadspen-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-hadspen-rental.pdf"
+  },
+  {
+    "Municipality": "Burnie",
+    "Suburb": "Havenview",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-havenview.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-havenview-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-havenview-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-havenview-rental.pdf"
+  },
+  {
+    "Municipality": "Burnie",
+    "Suburb": "Hillcrest",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-hillcrest.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-hillcrest-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-hillcrest-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-hillcrest-rental.pdf"
+  },
+  {
+    "Municipality": "Hobart",
+    "Suburb": "Hobart",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-hobart.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-hobart-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-hobart-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-hobart-rental.pdf"
+  },
+  {
+    "Municipality": "Kingborough",
+    "Suburb": "Howden",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-howden.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-howden-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-howden-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-howden-rental.pdf"
+  },
+  {
+    "Municipality": "Clarence",
+    "Suburb": "Howrah",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-howrah.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-howrah-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-howrah-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-howrah-rental.pdf"
+  },
+  {
+    "Municipality": "Kingborough",
+    "Suburb": "Huntingfield",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-huntingfield.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-huntingfield-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-huntingfield-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-huntingfield-rental.pdf"
+  },
+  {
+    "Municipality": "Huon Valley",
+    "Suburb": "Huonville",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-huonville.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-huonville-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-huonville-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-huonville-rental.pdf"
+  },
+  {
+    "Municipality": "Launceston",
+    "Suburb": "Invermay",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-invermay.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-invermay-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-invermay-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-invermay-rental.pdf"
+  },
+  {
+    "Municipality": "Huon Valley",
+    "Suburb": "Judbury",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-judbury.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-judbury-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-judbury-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-judbury-rental.pdf"
+  },
+  {
+    "Municipality": "Kingborough",
+    "Suburb": "Kettering",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-kettering.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-kettering-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-kettering-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-kettering-rental.pdf"
+  },
+  {
+    "Municipality": "Launceston",
+    "Suburb": "Kings Meadows",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-kings-meadows.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-kings-meadows-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-kings-meadows-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-kings-meadows-rental.pdf"
+  },
+  {
+    "Municipality": "Kingborough",
+    "Suburb": "Kingston",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-kingston.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-kingston-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-kingston-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-kingston-rental.pdf"
+  },
+  {
+    "Municipality": "Kingborough",
+    "Suburb": "Kingston Beach",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-kingston-beach.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-kingston-beach-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-kingston-beach-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-kingston-beach-rental.pdf"
+  },
+  {
+    "Municipality": "Latrobe",
+    "Suburb": "Latrobe",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-latrobe.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-latrobe-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-latrobe-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-latrobe-rental.pdf"
+  },
+  {
+    "Municipality": "Clarence",
+    "Suburb": "Lauderdale",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-lauderdale.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-lauderdale-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-lauderdale-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-lauderdale-rental.pdf"
+  },
+  {
+    "Municipality": "Launceston",
+    "Suburb": "Launceston",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-launceston.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-launceston-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-launceston-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-launceston-rental.pdf"
+  },
+  {
+    "Municipality": "West Tamar",
+    "Suburb": "Legana",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-legana.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-legana-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-legana-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-legana-rental.pdf"
+  },
+  {
+    "Municipality": "Hobart",
+    "Suburb": "Lenah Valley",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-lenah-valley.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-lenah-valley-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-lenah-valley-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-lenah-valley-rental.pdf"
+  },
+  {
+    "Municipality": "Sorell",
+    "Suburb": "Lewisham",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-lewisham.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-lewisham-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-lewisham-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-lewisham-rental.pdf"
+  },
+  {
+    "Municipality": "Clarence",
+    "Suburb": "Lindisfarne",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-lindisfarne.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-lindisfarne-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-lindisfarne-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-lindisfarne-rental.pdf"
+  },
+  {
+    "Municipality": "Northern Midlands",
+    "Suburb": "Longford",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-longford.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-longford-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-longford-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-longford-rental.pdf"
+  },
+  {
+    "Municipality": "Glenorchy",
+    "Suburb": "Lutana",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-lutana.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-lutana-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-lutana-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-lutana-rental.pdf"
+  },
+  {
+    "Municipality": "Kingborough",
+    "Suburb": "Margate",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-margate.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-margate-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-margate-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-margate-rental.pdf"
+  },
+  {
+    "Municipality": "Launceston",
+    "Suburb": "Mayfield",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-mayfield.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-mayfield-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-mayfield-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-mayfield-rental.pdf"
+  },
+  {
+    "Municipality": "Devonport",
+    "Suburb": "Miandetta",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-miandetta.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-miandetta-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-miandetta-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-miandetta-rental.pdf"
+  },
+  {
+    "Municipality": "Sorell",
+    "Suburb": "Midway Point",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-midway-point.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-midway-point-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-midway-point-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-midway-point-rental.pdf"
+  },
+  {
+    "Municipality": "Central Highlands",
+    "Suburb": "Miena",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-miena.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-miena-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-miena-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-miena-rental.pdf"
+  },
+  {
+    "Municipality": "Meander Valley",
+    "Suburb": "Mole Creek",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-mole-creek.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-mole-creek-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-mole-creek-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-mole-creek-rental.pdf"
+  },
+  {
+    "Municipality": "Clarence",
+    "Suburb": "Montagu Bay",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-montagu-bay.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-montagu-bay-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-montagu-bay-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-montagu-bay-rental.pdf"
+  },
+  {
+    "Municipality": "Burnie",
+    "Suburb": "Montello",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-montello.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-montello-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-montello-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-montello-rental.pdf"
+  },
+  {
+    "Municipality": "Glenorchy",
+    "Suburb": "Montrose",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-montrose.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-montrose-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-montrose-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-montrose-rental.pdf"
+  },
+  {
+    "Municipality": "Glenorchy",
+    "Suburb": "Moonah",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-moonah.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-moonah-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-moonah-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-moonah-rental.pdf"
+  },
+  {
+    "Municipality": "Clarence",
+    "Suburb": "Mornington",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-mornington.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-mornington-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-mornington-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-mornington-rental.pdf"
+  },
+  {
+    "Municipality": "Hobart",
+    "Suburb": "Mount Nelson",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-mount-nelson.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-mount-nelson-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-mount-nelson-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-mount-nelson-rental.pdf"
+  },
+  {
+    "Municipality": "Hobart",
+    "Suburb": "Mount Stuart",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-mount-stuart.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-mount-stuart-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-mount-stuart-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-mount-stuart-rental.pdf"
+  },
+  {
+    "Municipality": "Huon Valley",
+    "Suburb": "Mountain River",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-mountain-river.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-mountain-river-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-mountain-river-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-mountain-river-rental.pdf"
+  },
+  {
+    "Municipality": "Launceston",
+    "Suburb": "Mowbray",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-mowbray.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-mowbray-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-mowbray-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-mowbray-rental.pdf"
+  },
+  {
+    "Municipality": "Tasman",
+    "Suburb": "Murdunna",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-murdunna.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-murdunna-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-murdunna-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-murdunna-rental.pdf"
+  },
+  {
+    "Municipality": "Derwent Valley",
+    "Suburb": "New Norfolk",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-new-norfolk.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-new-norfolk-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-new-norfolk-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-new-norfolk-rental.pdf"
+  },
+  {
+    "Municipality": "Hobart",
+    "Suburb": "New Town",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-new-town.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-new-town-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-new-town-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-new-town-rental.pdf"
+  },
+  {
+    "Municipality": "Launceston",
+    "Suburb": "Newnham",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-newnham.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-newnham-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-newnham-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-newnham-rental.pdf"
+  },
+  {
+    "Municipality": "Launceston",
+    "Suburb": "Newstead",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-newstead.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-newstead-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-newstead-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-newstead-rental.pdf"
+  },
+  {
+    "Municipality": "Hobart",
+    "Suburb": "North Hobart",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-north-hobart.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-north-hobart-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-north-hobart-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-north-hobart-rental.pdf"
+  },
+  {
+    "Municipality": "Launceston",
+    "Suburb": "Norwood",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-norwood.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-norwood-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-norwood-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-norwood-rental.pdf"
+  },
+  {
+    "Municipality": "Tasman",
+    "Suburb": "Nubeena",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-nubeena.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-nubeena-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-nubeena-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-nubeena-rental.pdf"
+  },
+  {
+    "Municipality": "Clarence",
+    "Suburb": "Oakdowns",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-oakdowns.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-oakdowns-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-oakdowns-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-oakdowns-rental.pdf"
+  },
+  {
+    "Municipality": "Southern Midlands",
+    "Suburb": "Oatlands",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-oatlands.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-oatlands-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-oatlands-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-oatlands-rental.pdf"
+  },
+  {
+    "Municipality": "Brighton",
+    "Suburb": "Old Beach",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-old-beach.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-old-beach-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-old-beach-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-old-beach-rental.pdf"
+  },
+  {
+    "Municipality": "Clarence",
+    "Suburb": "Opossum Bay",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-opossum-bay.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-opossum-bay-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-opossum-bay-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-opossum-bay-rental.pdf"
+  },
+  {
+    "Municipality": "Glamorgan/Spring Bay",
+    "Suburb": "Orford",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-orford.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-orford-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-orford-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-orford-rental.pdf"
+  },
+  {
+    "Municipality": "Clarence",
+    "Suburb": "Otago",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-otago.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-otago-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-otago-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-otago-rental.pdf"
+  },
+  {
+    "Municipality": "Burnie",
+    "Suburb": "Park Grove",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-park-grove.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-park-grove-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-park-grove-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-park-grove-rental.pdf"
+  },
+  {
+    "Municipality": "Burnie",
+    "Suburb": "Parklands",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-parklands.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-parklands-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-parklands-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-parklands-rental.pdf"
+  },
+  {
+    "Municipality": "Central Coast",
+    "Suburb": "Penguin",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-penguin.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-penguin-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-penguin-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-penguin-rental.pdf"
+  },
+  {
+    "Municipality": "Northern Midlands",
+    "Suburb": "Perth",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-perth.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-perth-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-perth-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-perth-rental.pdf"
+  },
+  {
+    "Municipality": "Tasman",
+    "Suburb": "Port Arthur",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-port-arthur.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-port-arthur-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-port-arthur-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-port-arthur-rental.pdf"
+  },
+  {
+    "Municipality": "Huon Valley",
+    "Suburb": "Port Huon",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-port-huon.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-port-huon-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-port-huon-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-port-huon-rental.pdf"
+  },
+  {
+    "Municipality": "Latrobe",
+    "Suburb": "Port Sorell",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-port-sorell.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-port-sorell-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-port-sorell-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-port-sorell-rental.pdf"
+  },
+  {
+    "Municipality": "Sorell",
+    "Suburb": "Primrose Sands",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-primrose-sands.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-primrose-sands-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-primrose-sands-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-primrose-sands-rental.pdf"
+  },
+  {
+    "Municipality": "Launceston",
+    "Suburb": "Prospect",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-prospect.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-prospect-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-prospect-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-prospect-rental.pdf"
+  },
+  {
+    "Municipality": "Launceston",
+    "Suburb": "Prospect Vale",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-prospect-vale.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-prospect-vale-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-prospect-vale-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-prospect-vale-rental.pdf"
+  },
+  {
+    "Municipality": "Launceston",
+    "Suburb": "Punchbowl",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-punchbowl.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-punchbowl-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-punchbowl-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-punchbowl-rental.pdf"
+  },
+  {
+    "Municipality": "West Coast",
+    "Suburb": "Queenstown",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-queenstown.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-queenstown-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-queenstown-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-queenstown-rental.pdf"
+  },
+  {
+    "Municipality": "Devonport",
+    "Suburb": "Quoiba",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-quoiba.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-quoiba-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-quoiba-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-quoiba-rental.pdf"
+  },
+  {
+    "Municipality": "Kentish",
+    "Suburb": "Railton",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-railton.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-railton-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-railton-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-railton-rental.pdf"
+  },
+  {
+    "Municipality": "Huon Valley",
+    "Suburb": "Ranelagh",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-ranelagh.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-ranelagh-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-ranelagh-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-ranelagh-rental.pdf"
+  },
+  {
+    "Municipality": "Launceston",
+    "Suburb": "Ravenswood",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-ravenswood.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-ravenswood-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-ravenswood-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-ravenswood-rental.pdf"
+  },
+  {
+    "Municipality": "Clarence",
+    "Suburb": "Richmond",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-richmond.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-richmond-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-richmond-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-richmond-rental.pdf"
+  },
+  {
+    "Municipality": "Burnie",
+    "Suburb": "Ridgley",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-ridgley.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-ridgley-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-ridgley-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-ridgley-rental.pdf"
+  },
+  {
+    "Municipality": "Dorset",
+    "Suburb": "Ringarooma",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-ringarooma.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-ringarooma-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-ringarooma-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-ringarooma-rental.pdf"
+  },
+  {
+    "Municipality": "Clarence",
+    "Suburb": "Risdon Vale",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-risdon-vale.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-risdon-vale-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-risdon-vale-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-risdon-vale-rental.pdf"
+  },
+  {
+    "Municipality": "West Tamar",
+    "Suburb": "Riverside",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-riverside.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-riverside-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-riverside-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-riverside-rental.pdf"
+  },
+  {
+    "Municipality": "Launceston",
+    "Suburb": "Rocherlea",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-rocherlea.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-rocherlea-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-rocherlea-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-rocherlea-rental.pdf"
+  },
+  {
+    "Municipality": "Clarence",
+    "Suburb": "Rokeby",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-rokeby.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-rokeby-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-rokeby-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-rokeby-rental.pdf"
+  },
+  {
+    "Municipality": "Burnie",
+    "Suburb": "Romaine",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-romaine.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-romaine-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-romaine-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-romaine-rental.pdf"
+  },
+  {
+    "Municipality": "Clarence",
+    "Suburb": "Rose Bay",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-rose-bay.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-rose-bay-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-rose-bay-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-rose-bay-rental.pdf"
+  },
+  {
+    "Municipality": "West Coast",
+    "Suburb": "Rosebery",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-rosebery.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-rosebery-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-rosebery-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-rosebery-rental.pdf"
+  },
+  {
+    "Municipality": "Glenorchy",
+    "Suburb": "Rosetta",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-rosetta.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-rosetta-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-rosetta-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-rosetta-rental.pdf"
+  },
+  {
+    "Municipality": "Clarence",
+    "Suburb": "Rosny",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-rosny.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-rosny-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-rosny-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-rosny-rental.pdf"
+  },
+  {
+    "Municipality": "Clarence",
+    "Suburb": "Sandford",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-sandford.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-sandford-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-sandford-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-sandford-rental.pdf"
+  },
+  {
+    "Municipality": "Hobart",
+    "Suburb": "Sandy Bay",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-sandy-bay.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-sandy-bay-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-sandy-bay-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-sandy-bay-rental.pdf"
+  },
+  {
+    "Municipality": "Break O'Day",
+    "Suburb": "Scamander",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-scamander.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-scamander-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-scamander-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-scamander-rental.pdf"
+  },
+  {
+    "Municipality": "Dorset",
+    "Suburb": "Scottsdale",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-scottsdale.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-scottsdale-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-scottsdale-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-scottsdale-rental.pdf"
+  },
+  {
+    "Municipality": "Clarence",
+    "Suburb": "Seven Mile Beach",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-seven-mile-beach.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-seven-mile-beach-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-seven-mile-beach-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-seven-mile-beach-rental.pdf"
+  },
+  {
+    "Municipality": "Latrobe",
+    "Suburb": "Shearwater",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-shearwater.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-shearwater-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-shearwater-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-shearwater-rental.pdf"
+  },
+  {
+    "Municipality": "Kentish",
+    "Suburb": "Sheffield",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-sheffield.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-sheffield-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-sheffield-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-sheffield-rental.pdf"
+  },
+  {
+    "Municipality": "Burnie",
+    "Suburb": "Shorewell Park",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-shorewell-park.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-shorewell-park-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-shorewell-park-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-shorewell-park-rental.pdf"
+  },
+  {
+    "Municipality": "Waratah/Wynyard",
+    "Suburb": "Sisters Beach",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-sisters-beach.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-sisters-beach-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-sisters-beach-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-sisters-beach-rental.pdf"
+  },
+  {
+    "Municipality": "Circular Head",
+    "Suburb": "Smithton",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-smithton.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-smithton-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-smithton-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-smithton-rental.pdf"
+  },
+  {
+    "Municipality": "Kingborough",
+    "Suburb": "Snug",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-snug.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-snug-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-snug-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-snug-rental.pdf"
+  },
+  {
+    "Municipality": "Waratah/Wynyard",
+    "Suburb": "Somerset",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-somerset.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-somerset-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-somerset-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-somerset-rental.pdf"
+  },
+  {
+    "Municipality": "Sorell",
+    "Suburb": "Sorell",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-sorell.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-sorell-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-sorell-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-sorell-rental.pdf"
+  },
+  {
+    "Municipality": "Clarence",
+    "Suburb": "South Arm",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-south-arm.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-south-arm-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-south-arm-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-south-arm-rental.pdf"
+  },
+  {
+    "Municipality": "Burnie",
+    "Suburb": "South Burnie",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-south-burnie.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-south-burnie-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-south-burnie-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-south-burnie-rental.pdf"
+  },
+  {
+    "Municipality": "Hobart",
+    "Suburb": "South Hobart",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-south-hobart.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-south-hobart-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-south-hobart-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-south-hobart-rental.pdf"
+  },
+  {
+    "Municipality": "Launceston",
+    "Suburb": "South Launceston",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-south-launceston.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-south-launceston-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-south-launceston-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-south-launceston-rental.pdf"
+  },
+  {
+    "Municipality": "Devonport",
+    "Suburb": "Spreyton",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-spreyton.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-spreyton-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-spreyton-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-spreyton-rental.pdf"
+  },
+  {
+    "Municipality": "Break O'Day",
+    "Suburb": "St Helens",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-st-helens.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-st-helens-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-st-helens-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-st-helens-rental.pdf"
+  },
+  {
+    "Municipality": "Launceston",
+    "Suburb": "St Leonards",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-st-leonards.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-st-leonards-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-st-leonards-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-st-leonards-rental.pdf"
+  },
+  {
+    "Municipality": "Break O'Day",
+    "Suburb": "St Marys",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-st-marys.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-st-marys-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-st-marys-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-st-marys-rental.pdf"
+  },
+  {
+    "Municipality": "Circular Head",
+    "Suburb": "Stanley",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-stanley.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-stanley-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-stanley-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-stanley-rental.pdf"
+  },
+  {
+    "Municipality": "Break O'Day",
+    "Suburb": "Stieglitz",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-stieglitz.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-stieglitz-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-stieglitz-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-stieglitz-rental.pdf"
+  },
+  {
+    "Municipality": "West Coast",
+    "Suburb": "Strahan",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-strahan.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-strahan-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-strahan-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-strahan-rental.pdf"
+  },
+  {
+    "Municipality": "Launceston",
+    "Suburb": "Summerhill",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-summerhill.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-summerhill-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-summerhill-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-summerhill-rental.pdf"
+  },
+  {
+    "Municipality": "Kingborough",
+    "Suburb": "Taroona",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-taroona.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-taroona-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-taroona-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-taroona-rental.pdf"
+  },
+  {
+    "Municipality": "Kingborough",
+    "Suburb": "Tinderbox",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-tinderbox.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-tinderbox-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-tinderbox-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-tinderbox-rental.pdf"
+  },
+  {
+    "Municipality": "Hobart",
+    "Suburb": "Tolmans Hill",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-tolmans-hill.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-tolmans-hill-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-tolmans-hill-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-tolmans-hill-rental.pdf"
+  },
+  {
+    "Municipality": "Clarence",
+    "Suburb": "Tranmere",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-tranmere.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-tranmere-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-tranmere-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-tranmere-rental.pdf"
+  },
+  {
+    "Municipality": "Launceston",
+    "Suburb": "Trevallyn",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-trevallyn.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-trevallyn-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-trevallyn-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-trevallyn-rental.pdf"
+  },
+  {
+    "Municipality": "Glamorgan/Spring Bay",
+    "Suburb": "Triabunna",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-triabunna.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-triabunna-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-triabunna-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-triabunna-rental.pdf"
+  },
+  {
+    "Municipality": "Central Coast",
+    "Suburb": "Turners Beach",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-turners-beach.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-turners-beach-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-turners-beach-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-turners-beach-rental.pdf"
+  },
+  {
+    "Municipality": "Central Coast",
+    "Suburb": "Ulverstone",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-ulverstone.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-ulverstone-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-ulverstone-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-ulverstone-rental.pdf"
+  },
+  {
+    "Municipality": "Burnie",
+    "Suburb": "Upper Burnie",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-upper-burnie.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-upper-burnie-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-upper-burnie-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-upper-burnie-rental.pdf"
+  },
+  {
+    "Municipality": "Clarence",
+    "Suburb": "Warrane",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-warrane.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-warrane-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-warrane-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-warrane-rental.pdf"
+  },
+  {
+    "Municipality": "Launceston",
+    "Suburb": "Waverley",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-waverley.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-waverley-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-waverley-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-waverley-rental.pdf"
+  },
+  {
+    "Municipality": "Hobart",
+    "Suburb": "West Hobart",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-west-hobart.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-west-hobart-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-west-hobart-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-west-hobart-rental.pdf"
+  },
+  {
+    "Municipality": "Launceston",
+    "Suburb": "West Launceston",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-west-launceston.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-west-launceston-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-west-launceston-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-west-launceston-rental.pdf"
+  },
+  {
+    "Municipality": "Glenorchy",
+    "Suburb": "West Moonah",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-west-moonah.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-west-moonah-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-west-moonah-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-west-moonah-rental.pdf"
+  },
+  {
+    "Municipality": "Central Coast",
+    "Suburb": "West Ulverstone",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-west-ulverstone.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-west-ulverstone-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-west-ulverstone-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-west-ulverstone-rental.pdf"
+  },
+  {
+    "Municipality": "Meander Valley",
+    "Suburb": "Westbury",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-westbury.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-westbury-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-westbury-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-westbury-rental.pdf"
+  },
+  {
+    "Municipality": "Tasman",
+    "Suburb": "White Beach",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-white-beach.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-white-beach-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-white-beach-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-white-beach-rental.pdf"
+  },
+  {
+    "Municipality": "Kingborough",
+    "Suburb": "Woodbridge",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-woodbridge.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-woodbridge-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-woodbridge-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-woodbridge-rental.pdf"
+  },
+  {
+    "Municipality": "Waratah/Wynyard",
+    "Suburb": "Wynyard",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-wynyard.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-wynyard-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-wynyard-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-wynyard-rental.pdf"
+  },
+  {
+    "Municipality": "Launceston",
+    "Suburb": "Youngtown",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-youngtown.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-youngtown-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-youngtown-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-youngtown-rental.pdf"
+  },
+  {
+    "Municipality": "West Coast",
+    "Suburb": "Zeehan",
+    "Houses": "https://reit.com.au/wp-content/suburb_reports/web-zeehan.pdf",
+    "Other": "https://reit.com.au/wp-content/suburb_reports/web-zeehan-other.pdf",
+    "Land": "https://reit.com.au/wp-content/suburb_reports/web-zeehan-land.pdf",
+    "Rental": "https://reit.com.au/wp-content/suburb_reports/web-zeehan-rental.pdf"
+  }
+]
