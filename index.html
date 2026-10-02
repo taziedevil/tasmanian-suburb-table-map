@@ -369,10 +369,9 @@ let municipalityMarker = null;
     function initMap(data) {
      if (!map) {
         map = L.map('map').setView([-42.0409, 146.8087], 7);
-        L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
-  attribution: '&copy; OpenStreetMap & CartoDB',
-  subdomains: 'abcd',
-  maxZoom: 19
+       L.tileLayer('https://basemaps.cartocdn.com/rastertiles/light_all/{z}/{x}/{y}{r}.png?key=YOUR_KEY_HERE', {
+  attribution: '&copy; OpenStreetMap contributors &copy; CARTO',
+  maxZoom: 20
 }).addTo(map);
       }
 
